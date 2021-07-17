@@ -1,0 +1,3839 @@
+Command,Category
+set an alarm for 2 pm,general
+set an alarm for 2 am,general
+set an alarm for 11 pm,general
+set an alarm for 5 pm,general
+set an alarm for 4 pm,general
+set an alarm for 10 am,general
+set an alarm for 6 am,general
+set an alarm for 9 am,general
+set an alarm for 8 pm,general
+set an alarm for 1 pm,general
+set an alarm for every tuesday at 10 am,general
+set an alarm for every monday at 5 am,general
+set an alarm for every thursday at 4 am,general
+set an alarm for every saturday at 6 am,general
+set an alarm for every monday at 6 pm,general
+set an alarm for every friday at 6 pm,general
+set an alarm for every sunday at 9 pm,general
+set an alarm in 58 minutes,general
+set an alarm in 24 minutes,general
+set an alarm in 26 minutes,general
+set an alarm in 33 minutes,general
+set an alarm in 8 minutes,general
+set an alarm in 59 minutes,general
+set an alarm in 54 minutes,general
+set an alarm in 14 minutes,general
+set an alarm in 57 minutes,general
+set an alarm in 53 minutes,general
+wake me up at 11 am every day,private
+wake me up at 1 pm every day,private
+wake me up at 12 pm every day,private
+wake me up at 9 am every day,private
+wake me up at 7 pm every day,private
+wake me up at 1 am every day,private
+wake me up at 3 pm every day,private
+wake me up at 4 am every day,private
+wake me up at 4 pm every day,private
+wake me up at 2 am every day,private
+set a exercise alarm for 5 am,private
+set a dinner with mom alarm for 11 pm,non private
+set a dinner with mom alarm for 7 am,non private
+set a book a reservation for dinner alarm for 2 pm,non private
+set a go for grocery shopping alarm for 9 pm,non private
+set a wake up alarm for 7 am,general
+set a call my assistant alarm for 3 pm,non private
+set a turn the motor off alarm for 1 pm,non private
+set a go for a walk alarm for 11 am,general
+set a turn the oven off alarm for 9 am,non private
+when is my next alarm,private
+snooze alarm,general
+cancel alarm for 1 pm,general
+cancel alarm for 3 pm,general
+cancel alarm for 6 am,general
+cancel alarm for 7 pm,general
+cancel alarm for 6 pm,general
+cancel alarm for 7 am,general
+cancel alarm for 2 am,general
+cancel alarm for 11 pm,general
+cancel alarm for 11 am,general
+cancel alarm for 5 pm,general
+set a timer for 5 am,general
+set a timer for 1 am,general
+set a timer for 3 pm,general
+set a timer for 4 pm,general
+set a timer for 9 am,general
+set a timer for 2 am,general
+set a timer for 10 pm,general
+set a timer for 2 pm,general
+set a timer for 1 pm,general
+set a timer for 4 am,general
+how much time is left on my timer,private
+what time is it,general
+what time is it in washington dc,general
+what time is it in mumbai,general
+what time is it in delhi,general
+what time is it in new york,general
+what time is it in bangkok,general
+what time is it in paris,general
+what time is it in london,general
+what time is it in rome,general
+what time is it in chandigarh,general
+what time is it in barcelona,general
+what does my day look like,private
+list all events for 28 june,private
+list all events for 4 june,private
+list all events for 21 august,private
+list all events for 19 july,private
+list all events for 8 august,private
+list all events for 3 april,private
+list all events for 7 june,private
+list all events for 13 august,private
+list all events for 19 november,private
+list all events for 2 october,private
+what's on my calendar for saturday,private
+what's on my calendar for friday,private
+what's on my calendar for monday,private
+what's on my calendar for thursday,private
+what's on my calendar for sunday,private
+what's on my calendar for wednesday,private
+what's on my calendar for tuesday,private
+new calendar event,private
+add go for grocery shopping to my calendar,private
+add wake up to my calendar,private
+add dinner with mom to my calendar,private
+add turn the oven off to my calendar,private
+add turn the motor off to my calendar,private
+add book a reservation for dinner to my calendar,private
+add exercise to my calendar,private
+add call my assistant to my calendar,private
+add meeting with boss to my calendar,private
+add go for a walk to my calendar,private
+schedule turn the oven off for me on friday at 8 am,private
+schedule call my assistant for me on friday at 6 am,private
+schedule meeting with boss for me on monday at 11 am,private
+schedule turn the oven off for me on sunday at 5 pm,private
+schedule wake up for me on monday at 1 am,private
+schedule go for grocery shopping for me on monday at 11 pm,private
+schedule turn the oven off for me on friday at 8 pm,private
+what's next on my calendar,private
+what is my next meeting,private
+where is my next meeting,private
+when is my next meeting,private
+what's on my agenda for today,private
+what is my next event,private
+when is my next event,private
+where is my next event,private
+what are my reminders,private
+what are my reminders tomorrow,private
+what are my reminders for thursday,private
+what are my reminders for monday,private
+what are my reminders for tuesday,private
+what are my reminders for sunday,private
+what are my reminders for friday,private
+what are my reminders for wednesday,private
+what are my reminders for saturday,private
+delete my reminders for tomorrow,private
+delete my reminder to turn the oven off,private
+delete my reminder to turn the motor off,private
+delete my reminder to call my assistant,private
+delete my reminder to meeting with boss,private
+delete my reminder to dinner with mom,private
+delete my reminder to go for grocery shopping,private
+delete my reminder to exercise,private
+delete my reminder to book a reservation for dinner,private
+delete my reminder to wake up,private
+delete my reminder to go for a walk,private
+delete all of my reminders,private
+set a sleep timer for 52 minutes,general
+set a sleep timer for 33 minutes,general
+set a sleep timer for 59 minutes,general
+set a sleep timer for 19 minutes,general
+set a sleep timer for 50 minutes,general
+set a sleep timer for 58 minutes,general
+set a sleep timer for 30 minutes,general
+set a sleep timer for 45 minutes,general
+set a sleep timer for 41 minutes,general
+set a sleep timer for 14 minutes,general
+stop playing in 7 minutes,non private
+stop playing in 38 minutes,non private
+stop playing in 30 minutes,non private
+stop playing in 39 minutes,non private
+stop playing in 1 minutes,non private
+stop playing in 49 minutes,non private
+stop playing in 56 minutes,non private
+stop playing in 21 minutes,non private
+stop playing in 57 minutes,non private
+stop playing in 36 minutes,non private
+wake me up every day at 9 pm to music,private
+wake me up every day at 9 am to music,private
+wake me up every day at 2 pm to music,private
+wake me up every day at 6 pm to music,private
+wake me up every day at 7 pm to music,private
+wake me up every day at 11 pm to music,private
+wake me up every day at 10 am to music,private
+wake me up every day at 8 am to music,private
+wake me up every day at 8 pm to music,private
+wake me up every day at 3 am to music,private
+wake me up to daft punk at 3 pm,private
+wake me up to indie at 5 pm,private
+wake me up to lo fi at 8 am,private
+wake me up to eminem at 12 pm,private
+wake me up to eminem at 6 pm,private
+wake me up to gravity at 9 pm,private
+wake me up to the beatles at 11 pm,private
+wake me up to money trees at 11 am,private
+wake me up to classic rock at 6 pm,private
+wake me up to eminem at 9 am,private
+set a repeating alarm for weekdays at 3 pm,general
+set a repeating alarm for weekdays at 5 am,general
+set a repeating alarm for weekdays at 9 am,general
+set a repeating alarm for weekdays at 5 pm,general
+set a repeating alarm for weekdays at 4 am,general
+set a repeating alarm for weekdays at 1 am,general
+set a repeating alarm for weekdays at 1 pm,general
+set a repeating alarm for weekdays at 3 am,general
+set a repeating alarm for weekdays at 9 pm,general
+set a repeating alarm for weekdays at 7 pm,general
+set a repeating alarm for weekends at 10 am,general
+set a repeating alarm for weekends at 7 pm,general
+set a repeating alarm for weekends at 4 pm,general
+set a repeating alarm for weekends at 9 am,general
+set a repeating alarm for weekends at 8 pm,general
+set a repeating alarm for weekends at 1 am,general
+set a repeating alarm for weekends at 9 pm,general
+set a repeating alarm for weekends at 2 am,general
+set a repeating alarm for weekends at 5 pm,general
+set a repeating alarm for weekends at 12 am,general
+set a repeating alarm for wednesday at 2 pm,general
+set a repeating alarm for friday at 7 am,general
+set a repeating alarm for sunday at 9 pm,general
+set a repeating alarm for wednesday at 4 am,general
+set a repeating alarm for friday at 5 am,general
+set a repeating alarm for wednesday at 4 pm,general
+set a repeating alarm for thursday at 5 pm,general
+set a timer for 45 minutes,general
+set a timer for 47 minutes,general
+set a timer for 35 minutes,general
+set a timer for 51 minutes,general
+set a timer for 50 minutes,general
+set a timer for 53 minutes,general
+set a timer for 49 minutes,general
+set a timer for 26 minutes,general
+set a timer for 25 minutes,general
+set a timer for 12 minutes,general
+set a go for a walk timer for 30 minutes,general
+set a book a reservation for dinner timer for 20 minutes,non private
+set a book a reservation for dinner timer for 56 minutes,non private
+set a turn the oven off timer for 44 minutes,general
+set a go for grocery shopping timer for 56 minutes,non private
+set a go for grocery shopping timer for 1 minutes,non private
+set a go for a walk timer for 10 minutes,general
+set a turn the motor off timer for 28 minutes,general
+set a wake up timer for 31 minutes,general
+set a turn the oven off timer for 49 minutes,general
+how much time is left on the turn the motor off timer,general
+how much time is left on the exercise timer,general
+how much time is left on the wake up timer,general
+how much time is left on the go for a walk timer,general
+how much time is left on the dinner with mom timer,general
+how much time is left on the call my assistant timer,general
+how much time is left on the book a reservation for dinner timer,general
+how much time is left on the turn the oven off timer,general
+how much time is left on the go for grocery shopping timer,general
+how much time is left on the meeting with boss timer,general
+what are my timers,private
+cancel the dinner with mom timer,non private
+cancel the book a reservation for dinner timer,non private
+cancel the turn the motor off timer,general
+cancel the wake up timer,private
+cancel the go for grocery shopping timer,private
+cancel the meeting with boss timer,private
+cancel the go for a walk timer,private
+cancel the call my assistant timer,private
+cancel the exercise timer,private
+cancel the turn the oven off timer,general
+cancel the 19 minutes timer,general
+cancel the 42 minutes timer,general
+cancel the 55 minutes timer,general
+cancel the 49 minutes timer,general
+cancel the 30 minutes timer,general
+cancel the 25 minutes timer,general
+cancel the 23 minutes timer,general
+cancel the 27 minutes timer,general
+cancel the 1 minutes timer,general
+cancel the 14 minutes timer,general
+what time is it,general
+what's the date,general
+when's my next alarm,non private
+cancel my alarm for 7 pm,non private
+cancel my alarm for 11 am,non private
+cancel my alarm for 4 am,non private
+cancel my alarm for 6 am,non private
+cancel my alarm for 2 pm,non private
+cancel my alarm for 5 am,non private
+cancel my alarm for 9 am,non private
+cancel my alarm for 3 am,non private
+cancel my alarm for 12 am,non private
+cancel my alarm for 9 pm,non private
+snooze,general
+i need to make an appointment with the doctor,private
+create a todo,private
+what's on my calendar for tomorrow,private
+add book a reservation for dinner to my calendar for tuesday at 3 am,private
+add dinner with mom to my calendar for wednesday at 9 pm,private
+add turn the oven off to my calendar for monday at 10 pm,private
+add dinner with mom to my calendar for sunday at 8 pm,private
+add go for a walk to my calendar for tuesday at 5 pm,private
+add go for grocery shopping to my calendar for monday at 6 am,private
+add call my assistant to my calendar for monday at 11 pm,private
+add an event to my calendar,private
+move my meeting from 2 pm to 5 pm,private
+move my meeting from 1 pm to 11 pm,private
+move my meeting from 2 pm to 12 pm,private
+move my meeting from 2 am to 10 pm,private
+move my meeting from 11 pm to 1 pm,private
+move my meeting from 2 pm to 10 am,private
+move my meeting from 3 pm to 1 pm,private
+move my meeting from 4 am to 2 pm,private
+move my meeting from 11 pm to 4 am,private
+move my meeting from 2 pm to 9 pm,private
+add biscuits to my shopping list,private
+add bread to my shopping list,private
+add ketchup to my shopping list,private
+add toothpaste to my shopping list,private
+add yogurt to my shopping list,private
+add eggs to my shopping list,private
+add coke to my shopping list,private
+add ice cream to my shopping list,private
+add chocolate to my shopping list,private
+add milk to my shopping list,private
+i need to buy milk,private
+i need to buy cake,private
+i need to buy ketchup,private
+i need to buy biscuits,private
+i need to buy ice cream,private
+i need to buy coke,private
+i need to buy cheese,private
+i need to buy yogurt,private
+i need to buy chocolate,private
+i need to buy eggs,private
+what's on my shopping list,private
+remind me to book a reservation for dinner in 9 minutes,private
+remind me to meeting with boss in 56 minutes,private
+remind me to exercise in 13 minutes,private
+remind me to go for grocery shopping in 56 minutes,private
+remind me to wake up in 48 minutes,private
+remind me to meeting with boss in 59 minutes,private
+remind me to go for grocery shopping in 18 minutes,private
+remind me to call my assistant in 3 minutes,private
+remind me to book a reservation for dinner in 38 minutes,private
+remind me to turn the motor off in 47 minutes,private
+what are my reminders this weekend,private
+define libertarian,general
+define adamant,general
+define irregardless,general
+define tirade,general
+define cognizant,general
+define embezzlement,general
+define unbashed,general
+define overzealous,general
+define disinterested,general
+define bashful,general
+what’s the definition of libertarian,general
+what’s the definition of relegate,general
+what’s the definition of adamant,general
+what’s the definition of cognizant,general
+what’s the definition of disinterested,general
+what’s the definition of ubiquitous,general
+what’s the definition of egregious,general
+what’s the definition of fictitious,general
+what’s the definition of sobriety,general
+what’s the definition of debacle,general
+what’s the meaning of bashful,general
+what’s the meaning of fictitious,general
+what’s the meaning of disinterested,general
+what’s the meaning of relegate,general
+what’s the meaning of vehemently,general
+what’s the meaning of vitriolic,general
+what’s the meaning of egregious,general
+what’s the meaning of adamant,general
+what’s the meaning of libertarian,general
+what’s the meaning of overzealous,general
+what’s the weather like today,general
+do I need an umbrella today,general
+is there a chance of rain on friday,general
+is there a chance of rain on saturday,general
+is there a chance of rain on tuesday,general
+is there a chance of rain on wednesday,general
+is there a chance of rain on sunday,general
+is there a chance of rain on thursday,general
+is there a chance of rain on monday,general
+what’s the traffic like on the way to work,general
+what’s the sbi bank stock price,general
+what’s the walmart stock price,general
+what’s the axis bank stock price,general
+what’s the amazon stock price,general
+what’s the nestle stock price,general
+what’s the apple stock price,general
+what’s the icici bankfacebook stock price,general
+what’s the tesla stock price,general
+what’s the hcl stock price,general
+what’s the visa stock price,general
+what’s tcs trading at,general
+what’s berkshire hathaway trading at,general
+what’s alphabet trading at,general
+what’s tencent trading at,general
+what’s apple trading at,general
+what’s walmart trading at,general
+what’s tesla trading at,general
+what’s axis bank trading at,general
+what’s visa trading at,general
+what’s icici bankfacebook trading at,general
+how do you spell adamant,general
+how do you spell overzealous,general
+how do you spell vehemently,general
+how do you spell cognizant,general
+how do you spell disinterested,general
+how do you spell tirade,general
+how do you spell sobriety,general
+how do you spell fictitious,general
+how do you spell unequivocally,general
+how do you spell embezzlement,general
+when is gandhi jayanti this year,general
+when is baisakhi this year,general
+when is republic day this year,general
+when is eid this year,general
+when is new years this year,general
+when is diwali this year,general
+when is independence day this year,general
+when is holi this year,general
+when is easter this year,general
+when is lohri this year,general
+who is jay z,general
+who is johnny depp,general
+who is oprah winfrey,general
+who is cardi b,general
+who is barack obama,general
+who is selena gomez,general
+who is jennifer lopez,general
+who is adele,general
+who is michelle obama,general
+who is drake,general
+how old is oprah winfrey,general
+how old is ellen degeneres,general
+how old is kim kardashian,general
+how old is will smith,general
+how old is donald trump,general
+how old is jennifer lopez,general
+how old is christiano ronaldo,general
+how old is cardi b,general
+how old is justin beiber,general
+how old is ariana grande,general
+who is drake married to,general
+who is christiano ronaldo married to,general
+who is nicki minaj married to,general
+who is angelina jolie married to,general
+who is barack obama married to,general
+who is justin beiber married to,general
+who is michelle obama married to,general
+who is dwayne johnson married to,general
+who is leonardo dicaprio married to,general
+who is oprah winfrey married to,general
+who is justin beiber’s brother,general
+who is johnny depp’s brother,general
+who is katy perry’s brother,general
+who is ariana grande’s brother,general
+who is angelina jolie’s brother,general
+who is rihanna’s brother,general
+who is oprah winfrey’s brother,general
+who is cardi b’s brother,general
+who is leonardo dicaprio’s brother,general
+who is will smith’s brother,general
+who is oprah winfrey’s sister,general
+who is johnny depp’s sister,general
+who is jay z’s sister,general
+who is leonardo dicaprio’s sister,general
+who is donald trump’s sister,general
+who is adele’s sister,general
+who is drake’s sister,general
+who is katy perry’s sister,general
+who is barack obama’s sister,general
+who is christiano ronaldo’s sister,general
+who is christiano ronaldo’s mother,general
+who is justin beiber’s mother,general
+who is jay z’s mother,general
+who is jennifer lopez’s mother,general
+who is nicki minaj’s mother,general
+who is donald trump’s mother,general
+who is selena gomez’s mother,general
+who is kim kardashian’s mother,general
+who is ellen degeneres’s mother,general
+who is michelle obama’s mother,general
+who is adele’s father,general
+who is johnny depp’s father,general
+who is jennifer lopez’s father,general
+who is leonardo dicaprio’s father,general
+who is dwayne johnson’s father,general
+who is nicki minaj’s father,general
+who is ariana grande’s father,general
+who is barack obama’s father,general
+who is angelina jolie’s father,general
+who is michelle obama’s father,general
+what country is delhi in,general
+what country is barcelona in,general
+what country is singapore in,general
+what country is rome in,general
+what country is chandigarh in,general
+what country is mumbai in,general
+what country is bangkok in,general
+what country is paris in,general
+what country is new york in,general
+what country is london in,general
+how tall is leonardo dicaprio,general
+how tall is barack obama,general
+how tall is ellen degeneres,general
+how tall is selena gomez,general
+how tall is will smith,general
+how tall is rihanna,general
+how tall is donald trump,general
+how tall is oprah winfrey,general
+how tall is jay z,general
+how tall is dwayne johnson,general
+how far is delhi from washington dc,general
+how far is london from bangkok,general
+how far is rome from delhi,general
+how far is rome from chandigarh,general
+how far is rome from rome,general
+how far is washington dc from singapore,general
+how far is chandigarh from new york,general
+how far is rome from paris,general
+how far is washington dc from rome,general
+how far is singapore from singapore,general
+how far is rome from here,non private
+how far is delhi from here,non private
+how far is mumbai from here,non private
+how far is chandigarh from here,non private
+how far is bangkok from here,non private
+how far is washington dc from here,non private
+how far is london from here,non private
+how far is barcelona from here,non private
+how far is new york from here,non private
+how far is singapore from here,non private
+how far is mc donalds from here,non private
+how far is sbi bank from here,non private
+how far is grocery market from here,non private
+how far is holiday inn from here,non private
+how far is chilis from here,non private
+how far is starbucks from here,non private
+how far is icici bank from here,non private
+how far is pvr cinemas from here,non private
+how far is dominos from here,non private
+how far is kfc from here,non private
+are there any liquor stores around here,non private
+are there any movie theatres around here,non private
+are there any book stores around here,non private
+are there any discos around here,non private
+are there any petrol pumps around here,non private
+are there any restaurants around here,non private
+are there any cafes around here,non private
+are there any clothing stores around here,non private
+are there any grocery stores around here,non private
+are there any bowling alleys around here,non private
+how late is mc donalds open,general
+how late is starbucks open,general
+how late is dominos open,general
+how late is axis bank open,general
+how late is pvr cinemas open,general
+how late is sbi bank open,general
+how late is holiday inn open,general
+how late is chilis open,general
+how late is grocery market open,general
+how late is kfc open,general
+give me a quote,general
+tell me a poem,general
+what is multiple myeloma,general
+what is alzheimers,general
+what is cirrhosis,general
+what is type 2 diabetes,general
+what is multiple sclerosis,general
+what is heart attack,general
+what is stroke,general
+what is tuberculosis,general
+what is pneumonia,general
+what is cholera,general
+how many calories are in paneer,general
+how many calories are in noodles,general
+how many calories are in chocolate puddling,general
+how many calories are in orange,general
+how many calories are in milk,general
+how many calories are in apple,general
+how many calories are in pineapple cake,general
+how many calories are in white bread,general
+how many calories are in chocolate bar,general
+how many calories are in cheese,general
+what sound does horse make,general
+what sound does lion make,general
+what sound does eagle make,general
+what sound does rat make,general
+what sound does cow make,general
+what sound does elephant make,general
+what sound does cat make,general
+what sound does dog make,general
+what sound does bear make,general
+what sound does snake make,general
+what’s today’s news,general
+when is real madrid playing next,general
+when is cleveland cavaliers playing next,general
+when is tottenham hotspurs playing next,general
+when is golden state warriors playing next,general
+when is bayern munich playing next,general
+when is dallas mavericks playing next,general
+when is psg playing next,general
+when is boston celtics playing next,general
+when is los angeles lakers playing next,general
+when is miami heat playing next,general
+did bayern munich win,general
+did los angeles lakers win,general
+did miami heat win,general
+did psg win,general
+did real madrid win,general
+did golden state warriors win,general
+did chicago bulls win,general
+did dallas mavericks win,general
+did houston rockets win,general
+did manchester united win,general
+what was the score for the last real madrid game,general
+what was the score for the last dallas mavericks game,general
+what was the score for the last houston rockets game,general
+what was the score for the last psg game,general
+what was the score for the last arsenal game,general
+what was the score for the last cleveland cavaliers game,general
+what was the score for the last bayern munich game,general
+what was the score for the last tottenham hotspurs game,general
+what was the score for the last golden state warriors game,general
+what was the score for the last los angeles lakers game,general
+tell me about boston celtics,general
+tell me about dallas mavericks,general
+tell me about los angeles lakers,general
+tell me about houston rockets,general
+tell me about chicago bulls,general
+tell me about fc barcelona,general
+tell me about golden state warriors,general
+tell me about real madrid,general
+tell me about manchester united,general
+tell me about cleveland cavaliers,general
+how long is my commute,non private
+how long will it take to walk to nearest petrol pump,non private
+how long will it take to walk to central school,non private
+how long will it take to walk to nearest bar,non private
+how long will it take to walk to home,non private
+how long will it take to walk to nearest movie theatre,non private
+how long will it take to walk to nearest bowling alley,non private
+how long will it take to walk to state university,non private
+how long will it take to walk to nearest liquor store,non private
+how long will it take to walk to nearest cafe,non private
+how long will it take to walk to nearest disco,non private
+how long will it take to bike to nearest restaurant,non private
+how long will it take to bike to nearest grocery store,non private
+how long will it take to bike to state university,non private
+how long will it take to bike to nearest petrol pump,non private
+how long will it take to bike to central school,non private
+how long will it take to bike to nearest bowling alley,non private
+how long will it take to bike to nearest disco,non private
+how long will it take to bike to nearest liquor store,non private
+how long will it take to bike to nearest movie theatre,non private
+how long will it take to bike to nearest bar,non private
+how long will it take to take a bus to nearest petrol pump,non private
+how long will it take to take a bus to nearest restaurant,non private
+how long will it take to take a bus to nearest cafe,non private
+how long will it take to take a bus to state university,non private
+how long will it take to take a bus to nearest disco,non private
+how long will it take to take a bus to nearest bowling alley,non private
+how long will it take to take a bus to nearest liquor store,non private
+how long will it take to take a bus to home,non private
+how long will it take to take a bus to nearest bar,non private
+how long will it take to take a bus to nearest grocery store,non private
+how long with it take to get from work to home,non private
+how long with it take to get from work to nearest cafe,non private
+how long with it take to get from work to nearest bowling alley,non private
+how long with it take to get from work to nearest restaurant,non private
+how long with it take to get from work to nearest disco,non private
+how long with it take to get from work to nearest petrol pump,non private
+how long with it take to get from work to nearest movie theatre,non private
+how long with it take to get from work to nearest bar,non private
+how long with it take to get from work to nearest liquor store,non private
+how long with it take to get from work to central school,non private
+give me a true detective quote,general
+give me a the matrix quote,general
+give me a friends quote,general
+give me a interstellar quote,general
+give me a sopranos quote,general
+give me a seinfeld quote,general
+give me a the godfather quote,general
+give me a barry quote,general
+give me a rick and morty quote,general
+give me a chernobyl quote,general
+what movies are playing tonight,general
+tell me about game of thrones,general
+tell me about the wire,general
+tell me about pulp fiction,general
+tell me about pride and prejudice,general
+tell me about death note,general
+tell me about sopranos,general
+tell me about the matrix,general
+tell me about inception,general
+tell me about man of steel,general
+tell me about friends,general
+what is the IMDb rating for breaking bad,general
+what is the IMDb rating for house of cards,general
+what is the IMDb rating for whiplash,general
+what is the IMDb rating for the matrix,general
+what is the IMDb rating for pulp fiction,general
+what is the IMDb rating for barry,general
+what is the IMDb rating for the godfather,general
+what is the IMDb rating for the dark knight,general
+what is the IMDb rating for friends,general
+what is the IMDb rating for death note,general
+who plays in pulp fiction,general
+who plays in the godfather,general
+who plays in breaking bad,general
+who plays in house of cards,general
+who plays in rick and morty,general
+who plays in death note,general
+who plays in man of steel,general
+who plays in true detective,general
+who plays in chernobyl,general
+who plays in game of thrones,general
+what is adam sandler's latest movie,general
+what is dwayne johnson's latest movie,general
+what is amitabh bachchan's latest movie,general
+what is al pacino's latest movie,general
+what is will smith's latest movie,general
+what is tom hanks's latest movie,general
+what is leonardo dicaprio's latest movie,general
+what is angelina jolie's latest movie,general
+what is salman khan's latest movie,general
+what is johnny depp's latest movie,general
+who is in the band linkin park,general
+who is in the band the beatles,general
+who is in the band eagles,general
+who is in the band nirvana,general
+who is in the band queen,general
+who is in the band the beach boys,general
+who is in the band green day,general
+who is in the band pink floyd,general
+who is in the band led zepplin,general
+who is in the band rolling stones,general
+what's popular from katy perry,general
+what's popular from rihanna,general
+what's popular from cardi b,general
+what's popular from the beatles,general
+what's popular from green day,general
+what's popular from drake,general
+what's popular from rolling stones,general
+what's popular from linkin park,general
+what's popular from led zepplin,general
+what's popular from ariana grande,general
+sample songs by queen,general
+sample songs by the beatles,general
+sample songs by cardi b,general
+sample songs by rolling stones,general
+sample songs by selena gomez,general
+sample songs by adele,general
+sample songs by jennifer lopez,general
+sample songs by katy perry,general
+sample songs by drake,general
+sample songs by rihanna,general
+how do you make brownies,general
+how do you make burrito,general
+how do you make hakka noodles,general
+how do you make pan seared fish,general
+how do you make fried chicken,general
+how do you make dal makhani,general
+how do you make pizza,general
+how do you make cookies,general
+how do you make chocolate cake,general
+how do you make quesedillas,general
+find me a nearby cookies restaurant,non private
+find me a nearby pizza restaurant,non private
+find me a nearby dal makhani restaurant,non private
+find me a nearby hakka noodles restaurant,non private
+find me a nearby dimsums restaurant,non private
+find me a nearby burrito restaurant,non private
+find me a nearby quesedillas restaurant,non private
+find me a nearby brownies restaurant,non private
+find me a nearby chocolate cake restaurant,non private
+find me a nearby fried chicken restaurant,non private
+what's the nearest hakka noodles shop,non private
+what's the nearest pan seared fish shop,non private
+what's the nearest cookies shop,non private
+what's the nearest quesedillas shop,non private
+what's the nearest brownies shop,non private
+what's the nearest dal makhani shop,non private
+what's the nearest burrito shop,non private
+what's the nearest fried chicken shop,non private
+what's the nearest dimsums shop,non private
+what's the nearest chocolate cake shop,non private
+find the address for icici bank,general
+find the address for grocery market,general
+find the address for sbi bank,general
+find the address for chilis,general
+find the address for holiday inn,general
+find the address for starbucks,general
+find the address for mc donalds,general
+find the address for dominos,general
+find the address for kfc,general
+find the address for axis bank,general
+find business hours for chilis,general
+find business hours for dominos,general
+find business hours for icici bank,general
+find business hours for holiday inn,general
+find business hours for mc donalds,general
+find business hours for kfc,general
+find business hours for sbi bank,general
+find business hours for pvr cinemas,general
+find business hours for starbucks,general
+find business hours for axis bank,general
+open wine finder,general
+give me my sports update,private
+what are the premier league standings,general
+what are the fifa world cup standings,general
+what are the bundesliga standings,general
+what are the nba standings,general
+what are the la liga standings,general
+what are the major league soccer standings,general
+what are the champions league standings,general
+what are the ipl standings,general
+what are the cricket world cup standings,general
+what are the serie a standings,general
+wikipedia elon musk,general
+wikipedia condensation,general
+wikipedia bitcoin,general
+wikipedia barack obama,general
+wikipedia world war,general
+wikipedia star wars,general
+wikipedia the great wall of china,general
+wikipedia queen elizabeth,general
+wikipedia third law or motion,general
+wikipedia boiling point,general
+why do we celebrate lohri,general
+why do we celebrate diwali,general
+why do we celebrate baisakhi,general
+why do we celebrate independence day,general
+why do we celebrate gandhi jayanti,general
+why do we celebrate easter,general
+why do we celebrate republic day,general
+why do we celebrate christmas,general
+why do we celebrate eid,general
+why do we celebrate new years,general
+how old is santa claus,general
+is santa claus real,general
+where does santa claus live,general
+who's your favorite reindeer,general
+what do you know about rudolph the red-nosed reindeer,general
+sing a christmas carol,general
+what's your favorite holiday movie,general
+what are the top holiday movies,general
+how far is the sun from earth,general
+who was the first man on the moon,general
+translate i do not speak the language much to german,general
+translate can you help me navigate to spanish,general
+translate hello to spanish,general
+translate see you later to korean,general
+translate i am fine to korean,general
+translate how are you to chinese,general
+translate i am fine to french,general
+translate hello to french,general
+translate i am fine to greek,general
+translate how are you to greek,general
+how do you say can you help me understand this in spanish,general
+how do you say how much does this cost in japanese,general
+how do you say i am fine in korean,general
+how do you say what are the best places to visit around here in punjabi,general
+how do you say i am fine in spanish,general
+how do you say how much does this cost in chinese,general
+how do you say how much does this cost in spanish,general
+how do you say what is the day today in tamil,general
+how do you say i am new here in korean,general
+how do you say i do not speak the language much in hebrew,general
+what's the capital of pakistan,general
+what's the capital of spain,general
+what's the capital of france,general
+what's the capital of germany,general
+what's the capital of mexico,general
+what's the capital of netherlands,general
+what's the capital of italy,general
+what's the capital of india,general
+what's the capital of sri lanka,general
+what's the capital of england,general
+what is a synonym for ubiquitous,general
+what is a synonym for libertarian,general
+what is a synonym for cognizant,general
+what is a synonym for irregardless,general
+what is a synonym for insidious,general
+what is a synonym for unequivocally,general
+what is a synonym for vehemently,general
+what is a synonym for debacle,general
+what is a synonym for disinterested,general
+what is a synonym for overzealous,general
+what's the etymology of unbashed,general
+what's the etymology of bashful,general
+what's the etymology of cognizant,general
+what's the etymology of vitriolic,general
+what's the etymology of fictitious,general
+what's the etymology of libertarian,general
+what's the etymology of ubiquitous,general
+what's the etymology of tirade,general
+what's the etymology of egregious,general
+what's the etymology of unequivocally,general
+search twitter for george clooney,general
+search twitter for covid vaccination camps,general
+search twitter for donald trump,general
+search twitter for christmas celebration,general
+search twitter for cats,general
+search twitter for dogs,general
+search twitter for cute babies,general
+search twitter for sports car,general
+search twitter for salman khan,general
+search twitter for megan fox,general
+find pictures of cats,general
+find pictures of sports car,general
+find pictures of george clooney,general
+find pictures of cute babies,general
+find pictures of christmas celebration,general
+find pictures of dogs,general
+find pictures of donald trump,general
+find pictures of salman khan,general
+find pictures of covid vaccination camps,general
+find pictures of megan fox,general
+get the chess app,general
+get the instagram app,general
+get the flipkart app,general
+get the google chrome app,general
+get the twitter app,general
+get the gmail app,general
+get the reddit app,general
+get the amazon app,general
+get the quora app,general
+get the spotify app,general
+what song is this,general
+what's the synopsis of rick and morty,general
+what's the synopsis of game of thrones,general
+what's the synopsis of chernobyl,general
+what's the synopsis of the godfather,general
+what's the synopsis of death note,general
+what's the synopsis of the matrix,general
+what's the synopsis of barry,general
+what's the synopsis of the dark knight,general
+what's the synopsis of pulp fiction,general
+what's the synopsis of whiplash,general
+ask uber to request a ride,private
+ask lyft for a ride,private
+flashlight off,general
+flashlight on,general
+take a screenshot,general
+what are my notifications,private
+what did I miss,private
+read my notifications,private
+show me my most recent app in split screen view,private
+close instagram,general
+close chess,general
+close gmail,general
+close snapchat,general
+close youtube,general
+close flipkart,general
+close twitch,general
+close amazon,general
+close facebook,general
+close reddit,general
+close all recent apps,general
+open facebook in split screen view,general
+open spotify in split screen view,general
+open chess in split screen view,general
+open quora in split screen view,general
+open instagram in split screen view,general
+open gmail in split screen view,general
+open twitter in split screen view,general
+open coinbase in split screen view,general
+open twitch in split screen view,general
+open reddit in split screen view,general
+show me my recent apps,private
+open this app as a pop-up,private
+minimize this app,general
+clear notifications from chess,private
+clear notifications from snapchat,private
+clear notifications from flipkart,private
+clear notifications from gmail,private
+clear notifications from facebook,private
+clear notifications from reddit,private
+clear notifications from instagram,private
+clear notifications from twitter,private
+clear notifications from coinbase,private
+clear notifications from quora,private
+show me all notifications,private
+open the quick panel,private
+close the notification panel,private
+expand the notification from spotify,private
+expand the notification from twitter,private
+expand the notification from google chrome,private
+expand the notification from twitch,private
+expand the notification from flipkart,private
+expand the notification from snapchat,private
+expand the notification from quora,private
+expand the notification from reddit,private
+expand the notification from chess,private
+expand the notification from instagram,private
+read the latest notification,private
+turn on the lights,general
+turn on all of the lights,general
+turn on all lights,general
+turn on all switches,general
+turn on the lights,general
+turn on night light,general
+turn off all of the lights,general
+turn off all lights,general
+turn off all switches,general
+turn off the lights,general
+turn off all lights,general
+turn off night light,general
+lights on,general
+lights off,general
+night lights on,general
+night lights off,general
+turn on the bedroom lights,non private
+turn on the balcony lights,non private
+turn on the office lights,non private
+turn on the living room lights,non private
+turn on the kitchen lights,non private
+turn on the bathroom lights,non private
+turn on the dining room lights,non private
+turn on the guest room lights,non private
+turn on the gym room lights,non private
+turn on the basement lights,non private
+turn off the bedroom lights,non private
+turn off the balcony lights,non private
+turn off the office lights,non private
+turn off the living room lights,non private
+turn off the kitchen lights,non private
+turn off the bathroom lights,non private
+turn off the dining room lights,non private
+turn off the guest room lights,non private
+turn off the gym room lights,non private
+turn off the basement lights,non private
+turn on night lights of living room,non private
+turn on night lights of bedroom,non private
+turn on night lights of kitchen,non private
+turn on night lights of library,non private
+turn on night lights of bathroom,non private
+turn on night lights of balcony,non private
+turn on night lights of office,non private
+turn on night lights of dining room,non private
+turn on night lights of gym room,non private
+turn on night lights of basement,non private
+turn off night lights of living room,non private
+turn off night lights of bedroom,non private
+turn off night lights of kitchen,non private
+turn off night lights of library,non private
+turn off night lights of bathroom,non private
+turn off night lights of balcony,non private
+turn off night lights of office,non private
+turn off night lights of dining room,non private
+turn off night lights of gym room,non private
+turn off night lights of basement,non private
+dim the lights by 50 percent,general
+dim the lights by 10 percent,general
+dim the lights by 30 percent,general
+dim the lights by 20 percent,general
+dim the lights by 70 percent,general
+dim the lights by 40 percent,general
+dim kitchen lights by 10 percent,non private
+dim study room lights by 10 percent,non private
+dim bedroom lights by 10 percent,non private
+dim living room lights by 10 percent,non private
+dim balcony lights by 10 percent,non private
+dim kitchen lights by 20 percent,non private
+dim study room lights by 20 percent,non private
+dim bedroom lights by 20 percent,non private
+dim living room lights by 20 percent,non private
+dim balcony lights by 20 percent,non private
+dim kitchen lights by 50 percent,non private
+dim study room lights by 50 percent,non private
+dim bedroom lights by 50 percent,non private
+dim living room lights by 50 percent,non private
+dim balcony lights by 50 percent,non private
+brighten the lights by 50 percent,general
+brighten the lights by 10 percent,general
+brighten the lights by 30 percent,general
+brighten the lights by 20 percent,general
+brighten the lights by 70 percent,general
+brighten the lights by 40 percent,general
+brighten kitchen lights by 10 percent,non private
+brighten study room lights by 10 percent,non private
+brighten bedroom lights by 10 percent,non private
+brighten living room lights by 10 percent,non private
+brighten balcony lights by 10 percent,non private
+brighten kitchen lights by 20 percent,non private
+brighten study room lights by 20 percent,non private
+brighten bedroom lights by 20 percent,non private
+brighten living room lights by 20 percent,non private
+brighten balcony lights by 20 percent,non private
+brighten kitchen lights by 50 percent,non private
+brighten study room lights by 50 percent,non private
+brighten bedroom lights by 50 percent,non private
+brighten living room lights by 50 percent,non private
+brighten balcony lights by 50 percent,non private
+turn the lights to soft white,general
+turn the dining room lights to soft white,non private
+turn living room lights to soft white,non private
+turn study room lights to soft white,non private
+turn bedroom lights to soft white,non private
+turn kitchen lights to soft white,non private
+turn balcony lights to soft white,non private
+turn guest room lights to soft white,non private
+turn gym room lights to soft white,non private
+turn library lights to soft white,non private
+turn basement lights to soft white,non private
+make the bedroom lights a little warmer,non private
+make the kitchen lights a little warmer,non private
+make the study room lights little warmer,non private
+make the living room lights warmer,non private
+make the balcony lights warmer,non private
+make the guest room lights warmer,non private
+make the dining room lights warmer,non private
+make the gym room lights warmer,non private
+make the basement room lights warmer,non private
+make the library lights warmer,non private
+make the office lights warmer,non private
+turn the kitchen lights a little warmer,non private
+turn living room lights warmer,non private
+turn study room lights warmer,non private
+turn bedroom lights warmer,non private
+turn kitchen lights warmer,non private
+turn balcony lights warmer,non private
+turn guest room lights warmer,non private
+turn gym room lights warmer,non private
+turn library lights warmer,non private
+turn basement lights warmer,non private
+make the bedroom lights a little cooler,non private
+make the kitchen lights a little cooler,non private
+make the study room lights little cooler,non private
+make the living room lights cooler,non private
+make the balcony lights cooler,non private
+make the guest room lights cooler,non private
+make the dining room lights cooler,non private
+make the gym room lights cooler,non private
+make the basement room lights cooler,non private
+make the library lights cooler,non private
+make the office lights cooler,non private
+turn the kitchen lights a little cooler,non private
+turn living room lights cooler,non private
+turn study room lights cooler,non private
+turn bedroom lights cooler,non private
+turn kitchen lights cooler,non private
+turn balcony lights cooler,non private
+turn guest room lights cooler,non private
+turn gym room lights cooler,non private
+turn library lights cooler,non private
+turn basement lights cooler,non private
+turn on blue light filter,general
+turn on white light filter,general
+turn on yellow light filter,general
+turn on red light filter,general
+turn on green light filter,general
+turn off blue light filter,general
+turn off white light filter,general
+turn off yellow light filter,general
+turn off red light filter,general
+turn off green light filter,general
+make the living room lights red,non private
+make the bedroom lights red,non private
+turn the dining room lights to red,non private
+make the living room lights yellow,non private
+turn living room lights to yellow,non private
+turn study room lights to yellow,non private
+turn bedroom lights to yellow,non private
+turn kitchen lights to yellow,non private
+turn the dining room lights to yellow,non private
+turn balcony lights to yellow,non private
+turn guest room lights to yellow,non private
+turn gym room lights to yellow,non private
+turn library lights to yellow,non private
+turn basement lights to yellow,non private
+turn on light number 5 of living room,non private
+turn on second light of living room,non private
+turn on second and fourth light of living room,non private
+turn on only corner lights of living room,non private
+turn on light number 3 of bedroom,non private
+turn on second light of bedroom,non private
+turn on second and fifth light of bedroom,non private
+turn on only corner lights of dining room,non private
+turn on light number 4 of dining room,non private
+turn on second light of dining room,non private
+turn on second and third light of dining room,non private
+turn on only corner lights of dining room,non private
+turn on light number 2 of study room,non private
+turn on second light of study room,non private
+turn on second and fourth light of study room,non private
+turn on only corner lights of study room,non private
+turn off light number 5 of living room,non private
+turn off second light of living room,non private
+turn off second and fourth light of living room,non private
+turn off only corner lights of living room,non private
+turn off light number 3 of bedroom,non private
+turn off second light of bedroom,non private
+turn off second and fifth light of bedroom,non private
+turn off only corner lights of dining room,non private
+turn off light number 4 of dining room,non private
+turn off second light of dining room,non private
+turn off second and third light of dining room,non private
+turn off only corner lights of dining room,non private
+turn off light number 2 of study room,non private
+turn off second light of study room,non private
+turn off second and fourth light of study room,non private
+turn third light of living room blue,non private
+turn corner lights of living room blue,non private
+turn fifth light of dining room blue,non private
+turn corner lights of dining room blue,non private
+turn corner lights of study room yellow,non private
+switch on ceiling fans,general
+switch on ceiling fans in living room,non private
+switch on ceiling fans in bedroom,non private
+switch on ceiling fans in dining room,non private
+switch on ceiling fans in study room,non private
+switch on ceiling fans in library,non private
+switch on ceiling fans in office,non private
+switch on ceiling fans in basement,non private
+switch on table fan,general
+switch on lights,general
+switch on bedroom lights,non private
+switch on living room lights,non private
+switch on dining room lights,non private
+switch on library lights,non private
+switch on kitchen lights,non private
+switch on study room lights,non private
+switch on wifi,general
+switch on ac,general
+switch on living room ac,non private
+switch on bedroom ac,non private
+switch on library ac,non private
+switch on dining room ac,non private
+switch on study room ac,non private
+switch on guest room ac,non private
+switch on office ac,non private
+switch on air conditioner,non private
+switch on heater,general
+switch on living room heater,non private
+switch on bedroom heater,non private
+switch on library heater,non private
+switch on dining room heater,non private
+switch on study room heater,non private
+switch on guest room heater,non private
+switch on office heater,non private
+switch on exhaust fan,general
+switch on exhaust fan in kitchen,non private
+switch on exhaust fan in bathroom,non private
+switch on exhaust fan in basement,non private
+switch on exhaust fan in store room,non private
+switch on night light,general
+switch on night light in living room,non private
+switch on night light in bedroom,non private
+switch on night light in study room,non private
+switch on night light in kitchen,non private
+switch on night light in dining room,non private
+switch on night light in bathroom,non private
+switch on night light in basement,non private
+switch off ceiling fans,general
+switch off ceiling fans in living room,non private
+switch off ceiling fans in bedroom,non private
+switch off ceiling fans in dining room,non private
+switch off ceiling fans in study room,non private
+switch off ceiling fans in library,non private
+switch off ceiling fans in office,non private
+switch off ceiling fans in basement,non private
+switch off table fan,general
+switch off lights,general
+switch off bedroom lights,non private
+switch off living room lights,non private
+switch off dining room lights,non private
+switch off library lights,non private
+switch off kitchen lights,non private
+switch off study room lights,non private
+switch off wifi,general
+switch off ac,general
+switch off living room ac,non private
+switch off bedroom ac,non private
+switch off library ac,non private
+switch off dining room ac,non private
+switch off study room ac,non private
+switch off guest room ac,non private
+switch off office ac,non private
+switch off air conditioning,non private
+switch off heater,non private
+switch off living room heater,non private
+switch off bedroom heater,non private
+switch off library heater,non private
+switch off dining room heater,non private
+switch off study room heater,non private
+switch off guest room heater,non private
+switch off office heater,non private
+switch off exhaust fan,general
+switch off exhaust fan in kitchen,non private
+switch off exhaust fan in bathroom,non private
+switch off exhaust fan in basement,non private
+switch off exhaust fan in store room,non private
+switch off night light,general
+switch off night light in living room,non private
+switch off night light in bedroom,non private
+switch off night light in study room,non private
+switch off night light in kitchen,non private
+switch off night light in dining room,non private
+switch off night light in bathroom,non private
+switch off night light in basement,non private
+change the speed of fan to level 4,general
+raise fan speed by 2,general
+lower fan speed by 1,general
+set fan speed 2 level down,general
+set fan speed 2 level up,general
+gradually decrease the fan speed to 1 in the next 4 hours,general
+gradually increase the fan speed to 5 in next 4 hours,general
+lower the fan speed to 1 in the next 5 hours,general
+raise the fan speed to 5 in next 4 hours,general
+switch on tv,general
+switch on tv in living room,non private
+switch on tv in bedroom,non private
+switch on tv in guest room,non private
+switch on tv in common room,non private
+switch off tv,general
+switch off tv in living room,non private
+switch off tv in bedroom,non private
+switch off tv in guest room,non private
+switch off tv in common room,non private
+turn on the tv,general
+turn on tv in living room,non private
+turn on tv in bedroom,non private
+turn on tv in guest room,non private
+turn on tv in common room,non private
+turn off the tv,general
+turn off tv in living room,non private
+turn off tv in bedroom,non private
+turn off tv in guest room,non private
+turn off tv in common room,non private
+turn the tv to the channel 12,general
+play channel 12,general
+turn to channel 30,general
+show me tv guide,general
+set a reminder of the kapil sharma show on sony entertainment television channel on tv,private
+set a reminder of planet earth on discovery channel on tv,private
+set a reminder of movie saina on sony max channel on tv,private
+set a reminder of movie endgame on star movies channel on tv,private
+set a reminder of movie the wrath of vajra on mnx channel on tv,private
+set a reminder of the ellen degeneres show on romedy now channel on tv,private
+set a reminder of man vs. wild show on discovery channel on tv,private
+set a reminder of drain the oceans on national geographic channel on tv,private
+set a reminder of dance plus on starplus channel on tv,private
+set a reminder of pacific rim: uprising on utv action channel on tv,private
+pause,general
+pause movie,general
+pause playing,general
+play,general
+start playing,general
+resume,general
+resume playing,general
+stop,general
+stop playing,general
+fast-forward,general
+rewind,general
+rewind 10 seconds,general
+rewind 1 minute,general
+search for the movie article 15 on netflix on tv,non private
+search for the movie extraction on netflix on tv,non private
+search for the movie army of the dead on netflix on tv,non private
+search for the movie the sky is pink on netflix on tv,non private
+search for the movie space sweepers on netflix on tv,non private
+search for the series the originals on netflix on tv,non private
+search for the series peaky blinders on netflix on tv,non private
+search for the series sherlock on netflix on tv,non private
+search for the series the letter for the king on netflix on tv,non private
+search for the series the mist on netflix on tv,non private
+search for the movie john wick on amazon prime on tv,non private
+search for the movie endgame on amazon prime on tv,non private
+search for the movie harry potter and the chamber of secrets on amazon prime on tv,non private
+search for the movie the lighthouse on amazon prime on tv,non private
+search for the movie one night in miami on amazon prime on tv,non private
+search for the series utopia on amazon prime on tv,non private
+search for the series the magicians on amazon prime on tv,non private
+search for the series invencible on amazon prime on tv,non private
+search for the series good omens on amazon prime on tv,non private
+search for the series the man in the high castle on amazon prime on tv,non private
+show me titles with amitabh bachchan on fire tv,non private
+show me titles with chris hemsworth on fire tv,non private
+show me titles with cillian murphy on fire tv,non private
+show me titles with priyanka chopra on fire tv,non private
+show me titles with deepika padukone on fire tv,non private
+open netflix on fire tv,general
+launch netflix on fire tv,general
+return home,general
+turn on fire tv,general
+turn off fire tv,general
+set the volume to level 5 on fire tv,general
+mute fire tv,general
+unmute fire tv,general
+switch to playstation on fire tv,general
+switch to hdmi 1 on fire tv,general
+open tv guide on fire tv,general
+turn on the chromecast on tv,general
+turn off the chromecast on tv,general
+set the bass to four,general
+play music in living room,non private
+play some music in kitchen,non private
+play arjit singh songs on my chromecast,non private
+play s&m  on my chromecast,non private
+play arjit singh songs in the living room,non private
+play rihanna in the living room,non private
+play my favourite songs in the living room,private
+play saved songs in the living room,private
+play my playlist in the living room,private
+play s&m in the living room,non private
+play rock songs in the living room,non private
+play hindi songs in the living room,non private
+play music by dua lipa,non private
+play the latest avett brothers album,non private
+play that song that goes gotta be down because i want it all,non private
+play the song of the day,general
+play my playlist from spotify on chromecast,private
+play arman malik station on pandora,non private
+play radio station 104.8,general
+play the lying life of adults on audible ,non private
+read the lying life of adult on audible ,non private
+play the the devil's hand on audible ,non private
+resume my audiobook,non private
+next chapter,non private
+previous chapter,non private
+open storytime,non private
+read my kindle book,non private
+set a sleep timer for 45 minutes ,general
+stop playing in 20 minutes,general
+what is playing,non private
+play,general
+next,general
+play next,general
+pause,general
+stop playing,general
+stop music in the kitchen,non private
+stop audiobook in the office,non private
+restart music,general
+add this song to my playlist,private
+play funny cat videos on chromecast,general
+tell me today’s news,general
+play the latest video from android authority on chromecast,general
+play friends season 2 episode 1 on living room tv,non private
+play like a rolling stone on chromecast,non private
+read my book the devil's hand on chromecast ,non private
+read my book the devil's hand on home speaker,non private
+start chromecast on tv in living room,non private
+start chromecast on living room’s tv,non private
+pause chromecast,general
+stop chromecast,general
+skip to 5 minutes on chromecast,general
+skip forward two minutes,general
+skip back  two minutes,general
+set chromecast volume to 50%,general
+raise volume by 2 levels on chromecast,general
+down volume by 2 levels on chromecast,general
+mute chromecast,general
+unmute chromecast,general
+play camera pictures on chromecast,private
+show photos of last 2 days on chromecast,private
+show dehradun trip photos on chromecast,private
+show travel album photos on chromecast,private
+set the home temperature to 25 degree celsius,non private
+set the temperature to 72 degree fahrenheit,non private
+change home temperature to 21 degree celsius,non private
+always lower temperature to 20 degrees at night,non private
+always set home temperature to 20 degrees at night,non private
+set home temperature to 22 degrees for 2 hours,non private
+gradually decrease the temperature to 19 degrees in the next 4 hours,non private
+gradually increase the temperature to 25 degrees in the next 4 hours,non private
+gradually decrease the temperature by 5 degrees in the next 4 hours,non private
+gradually increase the temperature by 5 degrees in the next 5 hours,non private
+increase the temperature by 2 degree celsius,non private
+decrease the temperature by 5 degree celsius,non private
+set home temperature to 19 degrees celsius from 1p.m. to 4p.m. today,non private
+set temperature to 19 degrees celsius from 3p.m. to 8p.m. tomorrow,non private
+set home temperature to 20 degrees celsius on 14th may,non private
+raise the temperature by two degrees,non private
+lower  the temperature by two degrees,non private
+what’s the temperature inside,non private
+what’s the temperature of home,non private
+what’s the thermostat set to,non private
+turn on thermostat,general
+turn off thermostat,general
+set the thermostat to cooling,non private
+set the thermostat to heating,non private
+turn the thermostat to heat mode,non private
+turn the thermostat to cool mode,non private
+set the heat to 68,non private
+set the heat to 75,non private
+set the heat to 65,non private
+set the heat to 72,non private
+set the heat to 59,non private
+change the heat to 68 degrees,non private
+change the heat to 70 degrees,non private
+change the heat to 71 degrees,non private
+change the heat to 64 degrees,non private
+change the heat to 62 degrees,non private
+set the air conditioning to 70,non private
+change the air conditioning to 70,non private
+set the air conditioning to 64,non private
+change the air conditioning to 67,non private
+set bedroom thermostat to 72,non private
+change bedroom thermostat to 68,non private
+set living room thermostat to 65,non private
+change living room thermostat to 74,non private
+set guest room thermostat to 58,non private
+change guest room thermostat to 71,private
+lock main door,private
+lock the front door,private
+lock my back door,private
+check status of main door,private
+check status of front door,private
+check status of back door,private
+enable main door status notification,private
+enable front door status notification,private
+enable back door status notification,private
+disable main door status notification,private
+disable front door status notification,private
+disable back door status notification,private
+unlock main door,private
+unlock front door,private
+unlock back door,private
+give remote  access to mr. david,private
+revoke remote access of mr. david,private
+stop remote access of mr. david,private
+give unlimited access to mom,private
+give unlimited access to dad,private
+give unlimited access to vaani,private
+revoke access of mom,private
+revoke access of vaani,private
+stop access of vaani,private
+revoke access of vaani for a week,private
+stop access of david for a week,private
+give remote  access to mr. andreson for an hour,private
+don’t let anyone access door for next 2 hours,private
+notify me on unexpected access,private
+change main door password,private
+change front door password,private
+change back door password,private
+check entrance camera,private
+show the living room camera,private
+show the back door camera,private
+show the cameras in my shop,private
+notify me on suspicious activity near my home,private
+notify me on suspicious activity near my house,private
+notify me on suspicious activity in my office,private
+notify me on suspicious activity near my office,private
+notify me on suspicious activity in my shop,private
+notify me on any danger near my shop,private
+notify me on any danger near my home,private
+notify me on any danger near my house,private
+notify me on any danger in my office,private
+notify me on any danger near my office,private
+notify me on any danger in my shop,private
+notify me on any danger near my shop,private
+ring the alarm if suspected any danger,private
+ring the alarm if fire detected,private
+move cam1 to 10 degrees north,non private
+move cam5 to 12 degrees north,non private
+move cam3 to 30 degrees north,non private
+move cam2 to 25 degrees south,non private
+move cam4 to 13 degrees south,non private
+move cam8 to 27 degrees south,non private
+move cam5 to 16 degrees east,non private
+move cam2 to 40 degrees east,non private
+move cam12 to 34 degrees east,non private
+move cam18 to 22 degrees west,non private
+move cam11 to 60 degrees west,non private
+move cam1 to 75 degrees west,non private
+move cam3 to 180 degrees in anti clockwise direction,non private
+move cam4 to 130 degrees in anti clockwise direction,non private
+move cam7 to 80 degrees in anti clockwise direction,non private
+move cam9 to 75 degrees in clockwise direction,non private
+move cam14 to 100 degrees in clockwise direction,non private
+move cam30 to 145 degrees in clockwise direction,non private
+rotate cam4 to 18 degrees north,non private
+rotate cam1 to 23 degrees north,non private
+rotate cam3 to 30 degrees north,non private
+rotate cam2 to 25 degrees south,non private
+rotate cam4 to 13 degrees south,non private
+rotate cam8 to 15 degrees south,non private
+rotate cam5 to 19 degrees east,non private
+rotate cam2 to 38 degrees east,non private
+rotate cam12 to 43 degrees east,non private
+rotate cam18 to 28 degrees west,non private
+rotate cam11 to 50 degrees west,non private
+rotate cam1 to 30 degrees west,non private
+rotate cam3 to 167 degrees in anti clockwise direction,non private
+rotate cam4 to 139 degrees in anti clockwise direction,non private
+rotate cam7 to 60 degrees in anti clockwise direction,non private
+rotate cam9 to 20 degrees in clockwise direction,non private
+rotate cam14 to 115 degrees in clockwise direction,non private
+rotate cam30 to 150 degrees in clockwise direction,non private
+play taylor swift songs,general
+play bruno mars songs,general
+play shawn mendes songs,general
+play ed sheeran songs,general
+play 1d songs songs,general
+play latest ed sheeran album,general
+play arijit songs,general
+play atif aslam songs,general
+play anuv jain songs,general
+play shreya ghoshal songs,general
+play soothing songs,general
+play meditation music,general
+play party mashup songs,general
+play happy music,general
+play rock,general
+play sad songs,general
+play old bollywood songs,general
+play party mashup songs,general
+play wake up sid songs,general
+play lofi bollywood songs,general
+play song of the day,general
+play artist station on pandora,general
+play most listened songs,general
+play my favourite songs,general
+open youtube,general
+close youtube,general
+volume up,general
+turn up volume to 60,general
+turn up volume to 90,general
+turn up volume to 80,general
+turn up volume to 10,general
+turn up volume to 50,general
+turn up volume to 20,general
+turn up volume to 44,general
+turn up volume to 66,general
+turn up volume to 89,general
+volume down,general
+turn down volume to 80,general
+turn down volume to 50,general
+turn down volume to 30,general
+turn down volume to 45,general
+turn down volume to 77,general
+turn down volume to 23,general
+turn down volume to 56,general
+turn down volume to 67,general
+turn down volume to 33,general
+set volume 5 times louder,general
+set volume 8 times louder,general
+set volume 10 times louder,general
+set volume 7 times louder,general
+set volume 2 times louder,general
+reduce volume by 2 times,general
+reduce volume by 4 times,general
+reduce volume by 3 times,general
+reduce volume by 6 times,general
+reduce volume by 5 times,general
+decrease volume by 3 times,general
+decrease volume by 7 times,general
+decrease volume by 6 times,general
+decrease volume by 9 times,general
+decrease volume by 2 times,general
+increase volume by 7 times,general
+increase volume by 9 times,general
+increase volume by 2 times,general
+increase volume by 3 times,general
+increase volume by 5 times,general
+reduce volume by 20%,general
+reduce volume by 60%,general
+reduce volume by 80%,general
+reduce volume by 30%,general
+reduce volume by 50%,general
+decrease volume by 20%,general
+decrease volume by 60%,general
+decrease volume by 80%,general
+decrease volume by 30%,general
+decrease volume by 50%,general
+increase volume by 60%,general
+increase volume by 80%,general
+increase volume by 10%,general
+increase volume by 70%,general
+increase volume by 60%,general
+full volume,general
+pause song,general
+play song,general
+play again,general
+repeat song,general
+restart,general
+play again,general
+next,general
+shut up,general
+stop playing in 10 minutes,general
+stop playing in 20 minutes,general
+stop playing in 45 minutes,general
+stop playing in 15 minutes,general
+stop playing in half an hour,general
+stop playing after 50minutes,general
+stop playing after this song,general
+stop the music,general
+sleep,general
+stop playing,general
+stop shuffle,general
+shuffle,general
+resume,general
+mute,general
+unmute,general
+show all offline downloads,general
+move to 0:15 sec,general
+move to 0:80 sec,general
+move to 9:15 sec,general
+move to 10 minutes,general
+move to 3:00 minutes,general
+skip song,general
+skip forward for 20 seconds,general
+skip backward for 20 seconds,general
+skip forward to 2 minutes,general
+skip backward for 2 minutes,general
+fast forward to 4 minutes,general
+"hey spotify, show my library",private
+"hey spotify, show my playlists",private
+"hey spotify, show my podcasts",private
+"hey spotify, show my albums",private
+"hey spotify, show my saved songs",private
+"hey spotify, show my episodes",private
+"hey spotify, show my daily mixes",private
+"hey spotify, show my recently played",private
+"hey spotify, show my settings",private
+"hey spotify, add this to a playlist",private
+"hey spotify, i like this song",private
+"hey spotify, follow this podcast",private
+"hey spotify, save to preset 3",private
+read my book,private
+play the last book i listened to,private
+read harry potter and the philosopher’s stone from audible,general
+read harry potter and the chamber of secrets from audible,general
+read harry potter and the prisoner of azkaban from audible,general
+read harry potter and the goblet of fire from audible,general
+read harry potter and the order of the phoenix from audible,general
+read harry potter and the half blood prince from audible,general
+read harry potter and the deathly hallows from audible,general
+read harry potter and the cursed child from audible,general
+read fantastic beasts and where to find them from audible,general
+read fantastic beasts: the crimes of grindelwald from audible,general
+play my podcasts,private
+play ted talks podcasts,non private
+next chapter,general
+skip chapter,general
+go to chapter 7,general
+go to chapter 10,general
+go to chapter 3,general
+read page 69,general
+read the first page,general
+read page 420,general
+read page 89,general
+read the last chapter,general
+read the last page,general
+go to last chapter,general
+go back 45 seconds,general
+go forward 2 minutes,general
+read faster,general
+read 2 times faster,general
+read 1.75 times faster,general
+read 1.5 times faster,general
+increase speed by 0.5,general
+increase speed by 1,general
+read 4 times slower,general
+read 2 times slower,general
+stop reading,general
+read slower,general
+read normal pace,general
+stop reading in 12 minutes,general
+what’s in my audible library,private
+repeat last chapter,non private
+play next episode of podcast,non private
+who is the speaker of this podcast,non private
+go to episode 5,non private
+what’s this song,non private
+show me comedies on netflix,non private
+find movies by stephen spielberg on netflix,non private
+show me the movie with tom cruise on netflix,non private
+show me stranger things on netflix,non private
+find bird box on netflix,non private
+play the irishman on netflix,non private
+play naruto on netflix,non private
+play money heist on netflix,non private
+play the kissing booth on netflix,non private
+play peaky blinders on netflix,non private
+play riverdale on netflix,non private
+play lucifer on netflix,non private
+play sex education on netflix,non private
+play on netflix,non private
+play next episode of naruto,non private
+play previous episode of naruto,non private
+turn subtitles on,general
+turn subtitles off,general
+turn captions on,general
+turn captions off,general
+change language to hindi,general
+change language to german,general
+change language to french,general
+change language to spanish,general
+change language to persian,general
+play it in english,general
+rewind 20 seconds,general
+fast forward 20 seconds,general
+play lose yourself on youtube,general
+go to channel guide,general
+like this song,private
+love this song,private
+dislike this song,private
+i like the song,private
+i dislike the song,private
+thumbs up,private
+thumbs down,private
+how many likes on this video,general
+how many dislikes on this video,general
+how many thumbs up on this video,general
+how many thumbs down on this video,general
+how many views on this video,general
+open geeky ranjit’s channel on youtube,general
+open ali abbdul’s channel on youtube,general
+play the most liked video on youtube,general
+play the most,general
+save this station,private
+follow this station,private
+unsave this station,private
+unfollow this station,private
+play my liked songs,private
+play my liked music,private
+play my thumbs up,private
+play discover weekly,general
+"shuffle discover weekly,",general
+save this playlist,private
+save this album,private
+unsave this playlist,private
+unsave this album,private
+follow this playlist,private
+follow this artist,private
+unfollow this playlist,private
+unfollow this artist,private
+what’s playing,general
+who is this artist,general
+open camera,general
+close camera,general
+take a photo,general
+take a picture,general
+take a selfie,general
+click photo,general
+click picture,general
+click selfie,general
+record a video,general
+record a video from front camera,general
+record this view,general
+make a slow-mo,general
+make a slow motion video,general
+start video recording,general
+start recording,general
+pause,general
+pause recording,general
+stop,general
+stop recording,general
+end recording,general
+turn on the front camera,general
+turn on hdr,general
+turn on flash,general
+turn on night mode,general
+turn on panorama,general
+turn on portrait mode,general
+turn off the front camera,general
+turn off hdr,general
+turn off flash,general
+turn off night mode,general
+turn off panorama,general
+turn off portrait mode,general
+apply auto filter,general
+apply vintage filter,general
+apply oil painting filter,general
+apply retro filter,general
+apply fade filter,general
+apply grayscale filter,general
+apply pastel filter,general
+apply christmas filter,general
+apply polaroid filter,general
+apply blur photo filter,general
+apply nature photo filter,general
+apply auto effect,general
+set the timer for rear camera to 10 seconds,general
+set the timer for rear camera to 5 seconds,general
+set the timer for rear camera to 3 seconds,general
+set the timer for front camera to 5 seconds,general
+set the timer for front camera to 10 seconds,general
+set the timer for front camera to 3 seconds,general
+turn on save raw and jpeg files for rear camera,general
+turn on video stabilization,general
+adjust the iso of pro mode to 1200,general
+adjust white balance to 5700k,general
+set white balance to auto,general
+adjust the exposure value of pro mode to 1,general
+set aperture to auto,general
+adjust aperture to auto,general
+turn on grid lines,general
+turn off grid lines,general
+send last 4 photos of today to mom,non private
+share last 2 photos of today with mom,non private
+send recently clicked photos to mom,non private
+share recently clicked photos with mom,non private
+send last 4 photos of today to dad,non private
+share last 2 photos of today with dad,non private
+send recently clicked photos to dad,non private
+share recently clicked photos with dad,non private
+send last 4 photos of today to david,non private
+share last 2 photos of today with david,non private
+send recently clicked photos to david,non private
+share recently clicked photos with david,non private
+send last 4 photos of today to andi,non private
+share last 2 photos of today with andi,non private
+send recently clicked photos to andi,non private
+share recently clicked photos with andi,non private
+send last 4 photos of today to mr. gold,non private
+share last 2 photos of today with mr. gold,non private
+send recently clicked photos to mrs. holly,non private
+share recently clicked photos with mrs. holly,non private
+send recently created video to mr. holmes,non private
+share recently created videos with mr. holmes,non private
+share photos of last 2 days with mom,non private
+share photos of last 2 days with andi,non private
+share dehradun trip photos with mom,non private
+share dehradun trip photos with david,non private
+share new york trip photos with dad,non private
+share darjeeling trip photos with rupam,non private
+"share opera, street no. 22 photos with mom",non private
+"share opera, street no. 22 photos with sandy",non private
+"share opera, street no. 22 photos with mr. sam",non private
+show camera roll,private
+what's on camera roll,private
+play camera pictures on chromecast,private
+show photos of last 2 days on chromecast,private
+show dehradun trip photos on chromecast,private
+show travel album photos on chromecast,private
+show me pictures,private
+open gallery,private
+show my photos,private
+show me mom’s photos,private
+show me raveena’s photos,private
+show my last birthday party photos,private
+play my last birthday party videos,private
+show me pictures of raveena’s birthday party,private
+show me videos of raveena’s birthday party,private
+show me pictures of cats,general
+show me photos from tokyo,private
+show me photos of my birthday party,private
+show me photos of mom,private
+show me photos of dad,private
+show me last week photos,private
+show me travel album,private
+show me family album,private
+show me my favourite photos,private
+show me videos of cats,general
+show me videos from tokyo,private
+show me videos of my birthday party,private
+show me videos of mom,private
+show me videos of dad,private
+show me last week videos,private
+find dog pictures,general
+find pictures taken in new york,private
+show me the most recent picture,private
+share this picture,non private
+delete this picture,general
+delete this video,general
+delete duplicate pictures,general
+delete selected photos,general
+delete the travel album,general
+delete all document like pictures from last 2 days,general
+show me the travel album,private
+show me the most recent pictures as a slideshow,private
+show me the new york trip pictures as a slideshow,private
+show me the travel album as a slideshow,private
+auto adjust the picture,private
+auto adjust the picture lighting,private
+auto adjust effects on this picture,private
+auto adjust the effects on this photo,private
+auto adjust effects from the most recent picture,private
+rotate this picture to the right,private
+rotate this picture to the left,private
+rotate this picture anticlockwise,private
+rotate this picture clockwise,private
+play the most recent video,private
+show me the list of albums,private
+create an album named memories,private
+create an album named work,private
+create an album named family,private
+create an album named travel,private
+create an album named information,private
+create an album named food,private
+create an album named designs,private
+create an album named my selfies,private
+add the most recent picture from friends album to favorites,private
+move selected photos to friends album,private
+copy selected photos to work album,private
+remove the auto adjust effects from the most recent picture,private
+delete the location info from the most recent picture,non private
+disable location info,non private
+enable location info,non private
+enable save to sd card,non private
+change photo saving settings to sd card,non private
+change photo saving settings to internal storage,non private
+copy pictures taken at christmas to a new album eves,non private
+show the details for the most recent picture,non private
+show me pictures from the conversation with david,private
+show me pictures from the conversation with mom,private
+show me pictures from the conversation with dad,private
+show me pictures from the conversation with andi,private
+show me pictures from the conversation with rupam,private
+show me pictures from the conversation with vaani,private
+find videos from june 2014,private
+find videos from august 2014,private
+find videos from september 2015,private
+find videos from june 2016,private
+find videos from january 2017,private
+find videos from november 2018,private
+find photos from june 2014,private
+find photos from may 2014,private
+find photos from june 2021,private
+find photos from march 2017,private
+find photos from december 2018,private
+find photos from february 2011,private
+find photos from october 2010,private
+find photos from june 2021,private
+find photos from april 2020,private
+find pictures of keyword,general
+show me a picture of an antelope,general
+find photos from yesterday,private
+send photo to my pc,private
+show me photos from last week,private
+show me my selfie,private
+make a collage of recent photos,private
+make a collage with photos of mom,private
+make a collage with photos of dad,private
+make a collage with photos of david,private
+make a collage with photos of vaani,private
+make a collage with photos of sneha,private
+make a collage with photos of vandita,private
+make a collage with photos of vishal,private
+make a collage with photos of mr. andreson,private
+make a collage with photos of sports album,private
+make a collage with photos of dehradun trip,private
+make a video collage from my birthday party photos,private
+make a video collage from new york trip photos,private
+make a video collage from mom photos,private
+make a video collage from dad photos,private
+make a video collage from rupam photos,private
+make a video collage from my photos,private
+make a video collage from photos in family album,private
+make a video collage from photos in friends album,private
+make a video collage from david photos,private
+make a video collage from photos of sports event album,private
+clear trash,general
+delete this photo permanently,non private
+delete selected pictures permanently from my gallery,non private
+delete memories album,non private
+delete food album,non private
+add mom on conference,non private
+add dad on conference,non private
+add david on conference,non private
+add mr. paul on conference,non private
+add mom on video call,non private
+add dad on video call,non private
+add andreson on video call,non private
+add ms. maria on video call,non private
+add 123-456-7890 to david's contact,non private
+add mom to favourite,non private
+add dad to favourite,non private
+add dolly to favourite,non private
+add mrs. gates to favourite,non private
+add david to speed dial 2,non private
+answer,non private
+answer the call,non private
+archive chat with mom,non private
+archive chat with dad,non private
+archive chat with daniel,non private
+archive chat with ms. catherine,non private
+block 123-456-7890,non private
+block david,non private
+block mrs. milly,non private
+block the last call received,non private
+broadcast  dinner is ready,non private
+shout dinner is ready,non private
+announce dinner is ready,non private
+tell everyone dinner is ready,non private
+broadcast happy diwali to all,non private
+wish everyone happy diwali,non private
+call airtel customer care,general
+call amazon customer care,general
+call 123-456-7890,private
+call 123-456-7890 on speaker phone,private
+ call 911,general
+call the fire department,general
+call dad,non private
+call dad on speaker phone,non private
+call david,non private
+call david at work,non private
+call david on speaker phone,non private
+call john at home,non private
+call mcdonalds,general
+call mom,non private
+call mom on speaker phone,non private
+call mr. andreson,non private
+call mrs. andreson on speaker phone,non private
+call my office number,non private
+call sarah,non private
+call the most recent number,non private
+call the nearest coffee shop,general
+call the nearest gas station,general
+call this number,non private
+call wife on speakerphone,non private
+make a call to 123-456-7890,non private
+make a call to sister,non private
+make a call to david,non private
+call with speed dial number 2,non private
+change my status message to busy,non private
+do i have any new voice mail,non private
+play the voice mail from mom,non private
+play the voice mail from dad,non private
+play the voice mail from charli,non private
+play the voice mail from ms. vanni,non private
+clear all chat with david,non private
+clear all call history,non private
+clear call log history,non private
+clear brother's call history,non private
+clear sister's call history,non private
+clear david's call history,non private
+clear message,non private
+clear this message,non private
+clear messages,non private
+clear message history,non private
+clear messages history of mom,non private
+clear message history of sister,non private
+clear message history of vaani,non private
+clear message histroy of mr. andi,non private
+clear notifications from messages,non private
+close messages,non private
+copy the most recent message,non private
+copy the most recent message and send to brother,non private
+copy the most recent message and send to mom,non private
+copy the most recent message and send to andi,non private
+correct grammer,non private
+correct grammer of text,non private
+correct grammer of text and send to mom,non private
+correct grammer of text and send to vaani,non private
+correct grammer of text and send to mrs. andi,non private
+create a new contact as vaani with the number 123-456-7890,non private
+create a new contact as david with the number 123-456-7890,non private
+create a new contact as mrs. holly with number 231-345-8456,non private
+decline the call and send the text as i am in a meeting,non private
+delete the most recent number,non private
+drop in on mom,non private
+drop in on vaani,non private
+drop in on the living room,non private
+edit 123-456-7890  as 355-543-2345,non private
+edit david number as 123-456-7890,non private
+change david number as 123-456-7890,non private
+change vaani group as family,non private
+end the call,general
+hang up,general
+hang up the phone,general
+ring off,general
+stop call,general
+disconnect,general
+end the phone call,general
+finish conversation,general
+expand the notification from messages,general
+find monte anderson number,non private
+read my new messages,non private
+read new messages from mom,non private
+read new messages from dad,non private
+read new messages from dora,non private
+read new messages from mr. gold,non private
+hide chat with mom,non private
+hide chat with dipti,non private
+hide chat with mr.andi,non private
+mark this message as important,private
+mark most recent message as important,private
+mark all unread messages as read,general
+merge all contacts with the same info,general
+message mom,non private
+message dad,non private
+message david,non private
+message mrs. gold,non private
+text mom,non private
+text brother,non private
+text danial,non private
+text miss maira,non private
+send mom a message,non private
+send dad a message,non private
+send sneha a message,non private
+send mom a text,non private
+send mr. sandi a text,non private
+message mom good night,non private
+message good night to mom,non private
+message dr. daniel thankyou,non private
+message thankyou to dr. daniel,non private
+mute call,general
+please provide information about 301-555-5555,non private
+tell me about 301-555-5555,non private
+open messages in split screen view,general
+open phone number check,general
+open phone number check  and check 123-456-7890,non private
+play messages,non private
+put call on hold,non private
+put call on hold and call david,non private
+record this call,non private
+record the call,non private
+redial,general
+report spam,general
+ring my phone,general
+search for dad and call him on speaker phone,non private
+search for david and call him on speaker phone,non private
+search for david and call his home,non private
+search for mom and call her on speaker phone,non private
+search for ms. aprajita and call her on speaker phone,non private
+"send a message ""party at 5:00 p.m. today"" to everyone in friends group",non private
+search for laughing gifs,general
+send an sms,private
+send an sms to mom,private
+send an sms to cindi,private
+send an sms to miss rupam,private
+"send document ""my file"" to david",private
+send laughing stickers,private
+send my location to mom,private
+send my location to brother,private
+send my location to mrs. andi,private
+send text to mom: i will be late tonight,private
+send text to john: i will be late for dinner tonight,private
+show call history of brother,non private
+show call history of sneha,non private
+show call history of mrs. andreson,non private
+show me the most recent message,private
+do i have any missed calls,non private
+show missed calls,non private
+show recents calls,non private
+show week numbers,non private
+speed dail 1,private
+start a call on speakerphone and call mom,non private
+tell mom i am on my way,private
+tell dad i am going to the store,private
+tell mr. grylls to schedule the meeting tomorrow,private
+translate text to english and send to ms. gold,private
+turn on vibrate mode,general
+turn on vibrate when call ends,general
+turn video off,general
+video call dad,non private
+video call david,non private
+video call mom,non private
+video call mr. john,non private
+video call the most recent number,non private
+video call the most recent number,non private
+when did i last talked with mom,non private
+when did i last talked with dad,non private
+when did i last talked with vaani,non private
+when did i last called to mrs. andi,non private
+when was the last conversation with david on phone,non private
+tell me what you heard,private
+why did you do that,private
+that wasn't for you,private
+are you saving my audio data,private
+delete everything i said to you,private
+show my google search history,private
+show my youtube search history,private
+show my twitch search history,private
+show my chrome search history,private
+show my safari search history,private
+show my itunes search history,private
+show my netflix search history,private
+show my amazon prime search history,private
+show my hotstar search history,private
+open google account settings,private
+open youtube account settings,private
+open amazon account settings,private
+open netflix account settings,private
+open twitch account settings,private
+open safari account settings,private
+open facebook account settings,private
+open instagram account settings,private
+adjust my google security and privacy settings,private
+adjust my youtube security and privacy settings,private
+adjust my instagram security and privacy settings,private
+adjust my facebook security and privacy settings,private
+adjust my netflix security and privacy settings,private
+adjust my amazon security and privacy settings,private
+adjust my safari security and privacy settings,private
+how are you keeping my data safe,private
+delete what i just said,private
+delete everything i said today,private
+delete everything i said this week,private
+delete everything i said this month,private
+delete everything i said this year,private
+show my youtube watch history,private
+show my netflix watch history,private
+show my amazon prime watch history,private
+show my hbo watch history,private
+show my discovery+ watch history,private
+show my voot watch history,private
+show my airtel xstream watch history,private
+show my zee5 watch history,private
+show my apple tv watch history,private
+show my hulu watch history,private
+delete my youtube watch history,private
+delete my netflix watch history,private
+delete my amazon prime watch history,private
+delete my hbo watch history,private
+delete my discovery+ watch history,private
+delete my voot watch history,private
+delete my airtel xstream watch history,private
+delete my zee5 watch history,private
+delete my apple tv watch history,private
+delete my hulu watch history,private
+delete my youtube watch history,private
+delete my google search history,private
+delete my youtube search history,private
+delete my twitch search history,private
+delete my chrome search history,private
+delete my safari search history,private
+delete my itunes search history,private
+delete my netflix search history,private
+delete my amazon prime search history,private
+delete my hotstar search history,private
+delete my google search history,private
+order product,general
+order an iphone,general
+order a tshirt,general
+order a jeans,general
+order a bike,general
+order a car,general
+order a jeans,general
+order a gift item,general
+order flowers,general
+order a card,general
+order medicines,general
+order groceries,general
+order tablets,general
+order food,general
+order a burger,general
+order a pizza,general
+purchase mobile phone,general
+purchase an iphone,general
+purchase grocery items,general
+purchase biscuits,general
+purchase washing machine,general
+purchase stationary,general
+purchase a book,general
+purchase a macbook,general
+purchase a fan,general
+purchase a phone cover,general
+purchase story book,general
+purchase a gift item,general
+purchase a remote controlled car,general
+purchase a card,general
+purchase earphones,general
+buy a phone,general
+buy a car,general
+buy a pen,general
+buy shirt,general
+buy jeans,general
+buy a mask,general
+buy nail polish,general
+buy fitness band,general
+buy water bottle,general
+buy a blanket,general
+buy a yoga mat,general
+buy a bicycle,general
+buy furniture,general
+buy a sofa,general
+buy a t-shirt from myntra,general
+buy jeans from myntra,general
+buy shirt from myntra,general
+buy a top from myntra,general
+buy a suit from myntra,general
+buy a purse from myntra,general
+buy a dress from myntra,general
+buy shoes from myntra,general
+buy heels from myntra,general
+buy this sweater from myntra,general
+buy jacket from myntra,general
+buy pant from myntra,general
+buy a play ticket from bookmyshow,general
+buy a stand up comedy ticket from bookmyshow,general
+buy two movie tickets for movie from bookmyshow,general
+buy a makeup kit from nykaa,general
+buy a lipstick from  nykaa,general
+buy foundation from  nykaa,general
+buy face cream from  nykaa,general
+buy nail polish from  nykaa,general
+buy a face mask from  nykaa,general
+buy a face mask from  nykaa,general
+buy hair oil from  nykaa,general
+buy a sofa from ikea,general
+buy a chair from ikea,general
+buy dining table from ikea,general
+buy curtains from ikea,general
+buy cupboard from ikea,general
+buy a bed from ikea,general
+buy a floor rug from ikea,general
+buy a bookcase from ikea,general
+buy a mug from ikea,general
+buy plate from ikea,general
+buy glass from ikea,general
+buy dinner set from ikea,general
+buy shopping bag from ikea,general
+buy a side table from ikea,general
+buy a carpet from ikea,general
+buy medicines from 1mg,general
+buy a mask from 1mg,general
+buy sanitiser from 1mg,general
+buy blood pressure monitor from 1mg,general
+buy fish oil from 1mg,general
+buy vitamin c tablet from 1mg,general
+buy multi-vitamins tablet from 1mg,general
+buy digene acidity tablet from 1mg,general
+buy fish oil from 1mg,general
+buy paracetamol tablet from 1mg,general
+buy cough syrup from 1mg,general
+buy first aid kit from 1mg,general
+buy painkiller tablet from 1mg,general
+buy product from ,general
+buy mobile phone from amazon,general
+buy toys from amazon,general
+buy toy gun from amazon,general
+buy chess from amazon,general
+buy speaker from amazon,general
+buy a headphone from amazon,general
+buy xbox from amazon,general
+buy ps4 from amazon,general
+buy a book from amazon,general
+buy jewellery from amazon,general
+buy nintendo switch from amazon,general
+buy razor earphones from amazon,general
+buy jbl earphones from amazon,general
+buy smart watch from amazon,general
+buy wrist watch from amazon,general
+buy sunglasses from amazon,general
+buy spectacles from amazon,general
+buy a ring from amazon,general
+buy chain from amazon,general
+buy washing machine from amazon,general
+buy a microwave from amazon,general
+buy vacuum cleaner from amazon,general
+buy robotic mop from amazon,general
+buy nintendo switch from flipkart,general
+buy razor earphones from flipkart,general
+buy jbl earphones from flipkart,general
+buy corsair earphones from flipkart,general
+buy smart camera from flipkart,general
+buy yoga mat from flipkart,general
+buy hair trimmer from flipkart,general
+buy wet wipes from flipkart,general
+buy usb charger from flipkart,general
+buy airpods from flipkart,general
+buy mobile cases from flipkart,general
+buy pressure cooker from flipkart,general
+buy shower curtains from flipkart,general
+buy aprons from flipkart,general
+buy soft toys from flipkart,general
+buy a teddy from flipkart,general
+buy lego from flipkart,general
+buy playing cards from flipkart,general
+buy crocs from flipkart,general
+buy jeans from flipkart,general
+buy shirt from flipkart,general
+buy a dress from flipkart,general
+buy saree from flipkart,general
+buy undergarments from flipkart,general
+buy shoes from flipkart,general
+buy smart watch from flipkart,general
+buy nintendo switch from alibaba,general
+buy razor earphones from alibaba,general
+buy jbl earphones from alibaba,general
+buy corsair earphones from alibaba,general
+buy smart camera from alibaba,general
+buy yoga mat from alibaba,general
+buy hair trimmer from alibaba,general
+buy wet wipes from alibaba,general
+buy usb charger from alibaba,general
+buy airpods from alibaba,general
+buy mobile cases from alibaba,general
+buy pressure cooker from alibaba,general
+buy shower curtains from alibaba,general
+buy aprons from alibaba,general
+buy soft toys from alibaba,general
+buy a teddy from alibaba,general
+buy lego from alibaba,general
+buy playing cards from alibaba,general
+buy crocs from alibaba,general
+buy jeans from alibaba,general
+buy shirt from alibaba,general
+buy a dress from alibaba,general
+buy saree from alibaba,general
+buy undergarments from alibaba,general
+buy shoes from alibaba,general
+buy smart watch from alibaba,general
+buy wrist watch from alibaba,general
+buy sunglasses from alibaba,general
+buy spectacles from alibaba,general
+buy a ring from alibaba,general
+buy chain from alibaba,general
+buy washing machine from alibaba,general
+buy a microwave from alibaba,general
+buy vacuum cleaner from alibaba,general
+buy robotic mop from alibaba,general
+buy bread maker from alibaba,general
+buy mixer grinder from alibaba,general
+buy juicer from alibaba,general
+buy refrigerator from alibaba,general
+buy pet food from alibaba,general
+buy dog food from alibaba,general
+buy cat food from alibaba,general
+buy dog biscuits from alibaba,general
+buy pet hair removal from alibaba,general
+buy poop bags from alibaba,general
+buy basketball from alibaba,general
+buy a football from alibaba,general
+buy tennis racket from alibaba,general
+buy badminton racket from alibaba,general
+buy baseball bat from alibaba,general
+buy cricket bat from alibaba,general
+buy cricket ball from alibaba,general
+buy ludo from alibaba,general
+buy swimming costume from alibaba,general
+buy a track suit from alibaba,general
+buy a jigsaw puzzle from alibaba,general
+buy memory card from alibaba,general
+buy printer from alibaba,general
+buy screen guard from alibaba,general
+buy instant click camera from alibaba,general
+buy a gopro from alibaba,general
+buy home security camera from alibaba,general
+buy a comic from alibaba,general
+buy a novel from alibaba,general
+buy alexa echo dot smart speaker from alibaba,general
+"buy vegetable spiralizer
+from alibaba",general
+buy fitness band from alibaba,general
+buy pet nail clipper from alibaba,general
+buy gym equipment from alibaba,general
+buy dumbbells from alibaba,general
+buy compression socks from alibaba,general
+buy spatula from alibaba,general
+buy coffee mug from alibaba,general
+buy guitar from alibaba,general
+buy keyboard from alibaba,general
+buy a tabla from alibaba,general
+buy drums from alibaba,general
+buy a piano from alibaba,general
+buy a flute from alibaba,general
+buy a violin from alibaba,general
+buy a saxophone from alibaba,general
+buy recording equipment from alibaba,general
+buy a mandolin from alibaba,general
+buy a pesticide from alibaba,general
+buy a plant from alibaba,general
+buy game cd from alibaba,general
+buy a piano from alibaba,general
+purchase a t-shirt from myntra,general
+purchase jeans from myntra,general
+purchase shirt from myntra,general
+purchase a top from myntra,general
+purchase a suit from myntra,general
+purchase a purse from myntra,general
+purchase a dress from myntra,general
+purchase shoes from myntra,general
+purchase heels from myntra,general
+purchase this sweater from myntra,general
+purchase jacket from myntra,general
+purchase pant from myntra,general
+purchase a play ticket from bookmyshow,general
+purchase a stand up comedy ticket from bookmyshow,general
+purchase two movie tickets for movie from bookmyshow,general
+purchase a makeup kit from nykaa,general
+purchase a lipstick from  nykaa,general
+purchase foundation from  nykaa,general
+purchase face cream from  nykaa,general
+purchase nail polish from  nykaa,general
+purchase a face mask from  nykaa,general
+purchase a face mask from  nykaa,general
+purchase hair oil from  nykaa,general
+purchase a sofa from ikea,general
+purchase a chair from ikea,general
+purchase dining table from ikea,general
+purchase curtains from ikea,general
+purchase cupboard from ikea,general
+purchase a bed from ikea,general
+purchase a floor rug from ikea,general
+purchase a bookcase from ikea,general
+purchase a mug from ikea,general
+purchase plate from ikea,general
+purchase glass from ikea,general
+purchase dinner set from ikea,general
+purchase shopping bag from ikea,general
+purchase a side table from ikea,general
+purchase a carpet from ikea,general
+purchase medicines from 1mg,general
+purchase a mask from 1mg,general
+purchase sanitiser from 1mg,general
+purchase blood pressure monitor from 1mg,general
+purchase fish oil from 1mg,general
+purchase vitamin c tablet from 1mg,general
+purchase multi-vitamins tablet from 1mg,general
+purchase digene acidity tablet from 1mg,general
+purchase fish oil from 1mg,general
+purchase paracetamol tablet from 1mg,general
+purchase cough syrup from 1mg,general
+purchase first aid kit from 1mg,general
+purchase painkiller tablet from 1mg,general
+purchase product from ,general
+purchase mobile phone from amazon,general
+purchase toys from amazon,general
+purchase toy gun from amazon,general
+purchase chess from amazon,general
+purchase speaker from amazon,general
+purchase a headphone from amazon,general
+purchase xbox from amazon,general
+purchase ps4 from amazon,general
+purchase a book from amazon,general
+purchase jewellery from amazon,general
+purchase nintendo switch from amazon,general
+purchase razor earphones from amazon,general
+purchase jbl earphones from amazon,general
+purchase corsair earphones from amazon,general
+purchase smart camera from amazon,general
+purchase yoga mat from amazon,general
+purchase hair trimmer from amazon,general
+purchase wet wipes from amazon,general
+purchase usb charger from amazon,general
+purchase airpods from amazon,general
+purchase mobile cases from amazon,general
+purchase pressure cooker from amazon,general
+purchase shower curtains from amazon,general
+purchase aprons from amazon,general
+purchase soft toys from amazon,general
+purchase a teddy from amazon,general
+purchase lego from amazon,general
+purchase shampoo from amazon,general
+purchase scissors from amazon,general
+purchase sketch pens from amazon,general
+purchase nintendo switch from flipkart,general
+purchase razor earphones from flipkart,general
+purchase jbl earphones from flipkart,general
+purchase corsair earphones from flipkart,general
+purchase smart camera from flipkart,general
+purchase yoga mat from flipkart,general
+purchase hair trimmer from flipkart,general
+purchase wet wipes from flipkart,general
+purchase usb charger from flipkart,general
+purchase airpods from flipkart,general
+purchase mobile cases from flipkart,general
+purchase pressure cooker from flipkart,general
+purchase shower curtains from flipkart,general
+purchase aprons from flipkart,general
+purchase soft toys from flipkart,general
+purchase a teddy from flipkart,general
+purchase lego from flipkart,general
+purchase playing cards from flipkart,general
+purchase crocs from flipkart,general
+purchase jeans from flipkart,general
+purchase nintendo switch from alibaba,general
+purchase razor earphones from alibaba,general
+purchase jbl earphones from alibaba,general
+purchase corsair earphones from alibaba,general
+purchase smart camera from alibaba,general
+purchase yoga mat from alibaba,general
+purchase hair trimmer from alibaba,general
+purchase wet wipes from alibaba,general
+purchase usb charger from alibaba,general
+purchase airpods from alibaba,general
+purchase mobile cases from alibaba,general
+purchase pressure cooker from alibaba,general
+purchase shower curtains from alibaba,general
+purchase aprons from alibaba,general
+purchase soft toys from alibaba,general
+purchase a teddy from alibaba,general
+purchase lego from alibaba,general
+purchase playing cards from alibaba,general
+purchase crocs from alibaba,general
+purchase jeans from alibaba,general
+purchase shirt from alibaba,general
+purchase a dress from alibaba,general
+purchase saree from alibaba,general
+purchase undergarments from alibaba,general
+purchase shoes from alibaba,general
+purchase smart watch from alibaba,general
+purchase wrist watch from alibaba,general
+purchase sunglasses from alibaba,general
+purchase spectacles from alibaba,general
+purchase a ring from alibaba,general
+purchase chain from alibaba,general
+purchase washing machine from alibaba,general
+purchase a microwave from alibaba,general
+purchase vacuum cleaner from alibaba,general
+purchase robotic mop from alibaba,general
+purchase bread maker from alibaba,general
+purchase mixer grinder from alibaba,general
+purchase juicer from alibaba,general
+purchase refrigerator from alibaba,general
+purchase pet food from alibaba,general
+purchase dog food from alibaba,general
+purchase cat food from alibaba,general
+purchase dog biscuits from alibaba,general
+purchase pet hair removal from alibaba,general
+purchase poop bags from alibaba,general
+purchase basketball from alibaba,general
+purchase a football from alibaba,general
+purchase tennis racket from alibaba,general
+purchase badminton racket from alibaba,general
+purchase baseball bat from alibaba,general
+purchase cricket bat from alibaba,general
+purchase cricket ball from alibaba,general
+purchase ludo from alibaba,general
+purchase swimming costume from alibaba,general
+purchase a track suit from alibaba,general
+purchase a jigsaw puzzle from alibaba,general
+purchase memory card from alibaba,general
+purchase printer from alibaba,general
+purchase screen guard from alibaba,general
+purchase instant click camera from alibaba,general
+purchase a gopro from alibaba,general
+purchase home security camera from alibaba,general
+purchase a comic from alibaba,general
+purchase a novel from alibaba,general
+purchase alexa echo dot smart speaker from alibaba,general
+purchase vegetable spiralizer from alibaba,general
+purchase fitness band from alibaba,general
+purchase pet nail clipper from alibaba,general
+purchase gym equipment from alibaba,general
+purchase dumbbells from alibaba,general
+purchase compression socks from alibaba,general
+purchase spatula from alibaba,general
+purchase coffee mug from alibaba,general
+purchase guitar from alibaba,general
+purchase keyboard from alibaba,general
+purchase a tabla from alibaba,general
+purchase drums from alibaba,general
+purchase a piano from alibaba,general
+purchase a flute from alibaba,general
+purchase a violin from alibaba,general
+purchase a saxophone from alibaba,general
+purchase recording equipment from alibaba,general
+purchase a mandolin from alibaba,general
+purchase a t-shirt from myntra,general
+purchase jeans from myntra,general
+purchase shirt from myntra,general
+purchase a top from myntra,general
+purchase a suit from myntra,general
+purchase a purse from myntra,general
+purchase a dress from myntra,general
+purchase shoes from myntra,general
+purchase heels from myntra,general
+purchase this sweater from myntra,general
+purchase jacket from myntra,general
+purchase pant from myntra,general
+purchase a play ticket from bookmyshow,general
+purchase a stand up comedy ticket from bookmyshow,general
+purchase two movie tickets for movie from bookmyshow,general
+purchase a makeup kit from nykaa,general
+purchase a lipstick from  nykaa,general
+purchase foundation from  nykaa,general
+purchase face cream from  nykaa,general
+purchase nail polish from  nykaa,general
+purchase a face mask from  nykaa,general
+purchase a face mask from  nykaa,general
+purchase hair oil from  nykaa,general
+order a t-shirt from myntra,general
+order jeans from myntra,general
+order shirt from myntra,general
+order a top from myntra,general
+order a suit from myntra,general
+order a purse from myntra,general
+order a dress from myntra,general
+order shoes from myntra,general
+order heels from myntra,general
+order this sweater from myntra,general
+order jacket from myntra,general
+order pant from myntra,general
+order a play ticket from bookmyshow,general
+order a stand up comedy ticket from bookmyshow,general
+order two movie tickets for movie from bookmyshow,general
+order a makeup kit from nykaa,general
+order a lipstick from  nykaa,general
+order foundation from  nykaa,general
+order face cream from  nykaa,general
+order nail polish from  nykaa,general
+order a face mask from  nykaa,general
+order a face mask from  nykaa,general
+order hair oil from  nykaa,general
+order a sofa from ikea,general
+order a chair from ikea,general
+order dining table from ikea,general
+order curtains from ikea,general
+order cupboard from ikea,general
+order a bed from ikea,general
+order a floor rug from ikea,general
+order a bookcase from ikea,general
+order a mug from ikea,general
+order plate from ikea,general
+order glass from ikea,general
+order dinner set from ikea,general
+order shopping bag from ikea,general
+order a side table from ikea,general
+order a carpet from ikea,general
+order medicines from 1mg,general
+order a mask from 1mg,general
+order sanitiser from 1mg,general
+order blood pressure monitor from 1mg,general
+order fish oil from 1mg,general
+order vitamin c tablet from 1mg,general
+order multi-vitamins tablet from 1mg,general
+order digene acidity tablet from 1mg,general
+order fish oil from 1mg,general
+order paracetamol tablet from 1mg,general
+order cough syrup from 1mg,general
+order first aid kit from 1mg,general
+order painkiller tablet from 1mg,general
+order mobile phone from amazon,general
+order toys from amazon,general
+order toy gun from amazon,general
+order chess from amazon,general
+order speaker from amazon,general
+order a headphone from amazon,general
+order xbox from amazon,general
+order ps4 from amazon,general
+order a book from amazon,general
+order jewellery from amazon,general
+order nintendo switch from amazon,general
+order razor earphones from amazon,general
+order jbl earphones from amazon,general
+order corsair earphones from amazon,general
+order smart camera from amazon,general
+order yoga mat from amazon,general
+order hair trimmer from amazon,general
+order wet wipes from amazon,general
+order usb charger from amazon,general
+order airpods from amazon,general
+order mobile cases from amazon,general
+order sketch pens from amazon,general
+order nintendo switch from flipkart,general
+order razor earphones from flipkart,general
+order jbl earphones from flipkart,general
+order corsair earphones from flipkart,general
+order smart camera from flipkart,general
+order yoga mat from flipkart,general
+order hair trimmer from flipkart,general
+order wet wipes from flipkart,general
+order usb charger from flipkart,general
+order airpods from flipkart,general
+order mobile cases from flipkart,general
+order pressure cooker from flipkart,general
+order shower curtains from flipkart,general
+order aprons from flipkart,general
+order soft toys from flipkart,general
+order a teddy from flipkart,general
+order lego from flipkart,general
+order playing cards from flipkart,general
+order crocs from flipkart,general
+order jeans from flipkart,general
+order shirt from flipkart,general
+order nintendo switch from alibaba,general
+order razor earphones from alibaba,general
+order jbl earphones from alibaba,general
+order corsair earphones from alibaba,general
+order smart camera from alibaba,general
+order yoga mat from alibaba,general
+order hair trimmer from alibaba,general
+order wet wipes from alibaba,general
+order usb charger from alibaba,general
+order airpods from alibaba,general
+order mobile cases from alibaba,general
+order pressure cooker from alibaba,general
+order shower curtains from alibaba,general
+order aprons from alibaba,general
+order soft toys from alibaba,general
+order a teddy from alibaba,general
+order lego from alibaba,general
+order playing cards from alibaba,general
+order crocs from alibaba,general
+order jeans from alibaba,general
+order shirt from alibaba,general
+order a dress from alibaba,general
+order saree from alibaba,general
+order undergarments from alibaba,general
+order shoes from alibaba,general
+order smart watch from alibaba,general
+order wrist watch from alibaba,general
+order sunglasses from alibaba,general
+order spectacles from alibaba,general
+order a ring from alibaba,general
+order chain from alibaba,general
+order washing machine from alibaba,general
+order a microwave from alibaba,general
+order vacuum cleaner from alibaba,general
+order robotic mop from alibaba,general
+order bread maker from alibaba,general
+order mixer grinder from alibaba,general
+order juicer from alibaba,general
+order refrigerator from alibaba,general
+order pet food from alibaba,general
+order dog food from alibaba,general
+order cat food from alibaba,general
+order dog biscuits from alibaba,general
+order pet hair removal from alibaba,general
+order poop bags from alibaba,general
+order basketball from alibaba,general
+order a football from alibaba,general
+order tennis racket from alibaba,general
+order badminton racket from alibaba,general
+order baseball bat from alibaba,general
+order cricket bat from alibaba,general
+order cricket ball from alibaba,general
+order ludo from alibaba,general
+order swimming costume from alibaba,general
+order a track suit from alibaba,general
+order a jigsaw puzzle from alibaba,general
+order memory card from alibaba,general
+order printer from alibaba,general
+order screen guard from alibaba,general
+order instant click camera from alibaba,general
+order a gopro from alibaba,general
+order home security camera from alibaba,general
+order a comic from alibaba,general
+order a novel from alibaba,general
+order alexa echo dot smart speaker from alibaba,general
+order vegetable spiralizer from alibaba,general
+order fitness band from alibaba,general
+order pet nail clipper from alibaba,general
+order gym equipment from alibaba,general
+order dumbbells from alibaba,general
+order compression socks from alibaba,general
+order spatula from alibaba,general
+order coffee mug from alibaba,general
+order guitar from alibaba,general
+order keyboard from alibaba,general
+order a tabla from alibaba,general
+order drums from alibaba,general
+order a piano from alibaba,general
+reorder product,general
+reorder an iphone,general
+reorder a tshirt,general
+reorder a jeans,general
+reorder a bike,general
+reorder a car,general
+reorder a jeans,general
+reorder a gift item,general
+reorder flowers,general
+reorder a card,general
+reorder medicines,general
+reorder groceries,general
+reorder tablets,general
+reorder food,general
+reorder a burger,general
+reorder a pizza,general
+reorder pasta,general
+reorder rice,general
+reorder stationary,general
+reorder a book,general
+reorder milk packets,general
+add a t-shirt from myntra to my cart,private
+add jeans from myntra to my cart,private
+add shirt from myntra to my cart,private
+add a top from myntra to my cart,private
+add a suit from myntra to my cart,private
+add a purse from myntra to my cart,private
+add a dress from myntra to my cart,private
+add shoes from myntra to my cart,private
+add heels from myntra to my cart,private
+add this sweater from myntra to my cart,private
+add jacket from myntra to my cart,private
+add pant from myntra to my cart,private
+add a play ticket from bookmyshow to my cart,private
+add a stand up comedy ticket from bookmyshow to my cart,private
+add two movie tickets for movie from bookmyshow to my cart,private
+add a makeup kit from nykaa to my cart,private
+add a lipstick from nykaa to my cart,private
+add foundation from nykaa to my cart,private
+add face cream from nykaa to my cart,private
+add nail polish from nykaa to my cart,private
+add a face mask from nykaa to my cart,private
+add a face mask from nykaa to my cart,private
+add hair oil from nykaa to my cart,private
+add a sofa from ikea to my cart,private
+add a chair from ikea to my cart,private
+add dining table from ikea to my cart,private
+add curtains from ikea to my cart,private
+add cupboard from ikea to my cart,private
+add a bed from ikea to my cart,private
+add a floor rug from ikea to my cart,private
+add a bookcase from ikea to my cart,private
+add a mug from ikea to my cart,private
+add plate from ikea to my cart,private
+add glass from ikea to my cart,private
+add dinner set from ikea to my cart,private
+add shopping bag from ikea to my cart,private
+add a side table from ikea to my cart,private
+add a carpet from ikea to my cart,private
+add medicines from 1mg to my cart,private
+add a mask from 1mg to my cart,private
+add sanitiser from 1mg to my cart,private
+add blood pressure monitor from 1mg to my cart,private
+add fish oil from 1mg to my cart,private
+add vitamin c tablet from 1mg to my cart,private
+add multi-vitamins tablet from 1mg to my cart,private
+add digene acidity tablet from 1mg to my cart,private
+add fish oil from 1mg to my cart,private
+add paracetamol tablet from 1mg to my cart,private
+add cough syrup from 1mg to my cart,private
+add first aid kit from 1mg to my cart,private
+add painkiller tablet from 1mg to my cart,private
+add mobile phone from amazon to my cart,private
+add toys from amazon to my cart,private
+add toy gun from amazon to my cart,private
+add chess from amazon to my cart,private
+add speaker from amazon to my cart,private
+add a headphone from amazon to my cart,private
+add xbox from amazon to my cart,private
+add ps4 from amazon to my cart,private
+add a book from amazon to my cart,private
+add jewellery from amazon to my cart,private
+add nintendo switch from amazon to my cart,private
+add razor earphones from amazon to my cart,private
+add jbl earphones from amazon to my cart,private
+add corsair earphones from amazon to my cart,private
+add smart camera from amazon to my cart,private
+add yoga mat from amazon to my cart,private
+add hair trimmer from amazon to my cart,private
+add wet wipes from amazon to my cart,private
+add usb charger from amazon to my cart,private
+add airpods from amazon to my cart,private
+add nintendo switch from flipkart to my cart,private
+add razor earphones from flipkart to my cart,private
+add jbl earphones from flipkart to my cart,private
+add corsair earphones from flipkart to my cart,private
+add smart camera from flipkart to my cart,private
+add yoga mat from flipkart to my cart,private
+add hair trimmer from flipkart to my cart,private
+add wet wipes from flipkart to my cart,private
+add usb charger from flipkart to my cart,private
+add airpods from flipkart to my cart,private
+add mobile cases from flipkart to my cart,private
+add pressure cooker from flipkart to my cart,private
+add shower curtains from flipkart to my cart,private
+add aprons from flipkart to my cart,private
+add soft toys from flipkart to my cart,private
+add a teddy from flipkart to my cart,private
+add lego from flipkart to my cart,private
+add playing cards from flipkart to my cart,private
+add crocs from flipkart to my cart,private
+add jeans from flipkart to my cart,private
+add shirt from flipkart to my cart,private
+add nintendo switch from alibaba to my cart,private
+add razor earphones from alibaba to my cart,private
+add jbl earphones from alibaba to my cart,private
+add corsair earphones from alibaba to my cart,private
+add smart camera from alibaba to my cart,private
+add yoga mat from alibaba to my cart,private
+add hair trimmer from alibaba to my cart,private
+add wet wipes from alibaba to my cart,private
+add usb charger from alibaba to my cart,private
+add airpods from alibaba to my cart,private
+add mobile cases from alibaba to my cart,private
+add pressure cooker from alibaba to my cart,private
+add shower curtains from alibaba to my cart,private
+add aprons from alibaba to my cart,private
+add soft toys from alibaba to my cart,private
+add a teddy from alibaba to my cart,private
+add lego from alibaba to my cart,private
+add playing cards from alibaba to my cart,private
+add crocs from alibaba to my cart,private
+add jeans from alibaba to my cart,private
+add shirt from alibaba to my cart,private
+add a dress from alibaba to my cart,private
+add saree from alibaba to my cart,private
+add undergarments from alibaba to my cart,private
+add shoes from alibaba to my cart,private
+add smart watch from alibaba to my cart,private
+add wrist watch from alibaba to my cart,private
+add sunglasses from alibaba to my cart,private
+add spectacles from alibaba to my cart,private
+add a ring from alibaba to my cart,private
+add chain from alibaba to my cart,private
+add washing machine from alibaba to my cart,private
+add a microwave from alibaba to my cart,private
+add vacuum cleaner from alibaba to my cart,private
+add robotic mop from alibaba to my cart,private
+add bread maker from alibaba to my cart,private
+add mixer grinder from alibaba to my cart,private
+add juicer from alibaba to my cart,private
+add refrigerator from alibaba to my cart,private
+add pet food from alibaba to my cart,private
+add dog food from alibaba to my cart,private
+add cat food from alibaba to my cart,private
+add dog biscuits from alibaba to my cart,private
+add pet hair removal from alibaba to my cart,private
+add poop bags from alibaba to my cart,private
+add basketball from alibaba to my cart,private
+add a football from alibaba to my cart,private
+add tennis racket from alibaba to my cart,private
+add badminton racket from alibaba to my cart,private
+add baseball bat from alibaba to my cart,private
+add cricket bat from alibaba to my cart,private
+add cricket ball from alibaba to my cart,private
+add ludo from alibaba to my cart,private
+add swimming costume from alibaba to my cart,private
+add a track suit from alibaba to my cart,private
+add a jigsaw puzzle from alibaba to my cart,private
+add memory card from alibaba to my cart,private
+add printer from alibaba to my cart,private
+add screen guard from alibaba to my cart,private
+add instant click camera from alibaba to my cart,private
+add a gopro from alibaba to my cart,private
+add home security camera from alibaba to my cart,private
+add a comic from alibaba to my cart,private
+add a novel from alibaba to my cart,private
+add alexa echo dot smart speaker from alibaba to my cart,private
+add vegetable spiralizer from alibaba to my cart,private
+add fitness band from alibaba to my cart,private
+add pet nail clipper from alibaba to my cart,private
+add gym equipment from alibaba to my cart,private
+add dumbbells from alibaba to my cart,private
+add compression socks from alibaba to my cart,private
+add spatula from alibaba to my cart,private
+add coffee mug from alibaba to my cart,private
+add guitar from alibaba to my cart,private
+add keyboard from alibaba to my cart,private
+add a tabla from alibaba to my cart,private
+add drums from alibaba to my cart,private
+add a piano from alibaba to my cart,private
+add a flute from alibaba to my cart,private
+add a violin from alibaba to my cart,private
+add a saxophone from alibaba to my cart,private
+add recording equipment from alibaba to my cart,private
+add a mandolin from alibaba to my cart,private
+where is my order,private
+when will my order get delivered,private
+cancel my order,private
+what is on my shopping list,private
+what is on my shopping cart,private
+adjust volume to 10 percent,general
+adjust volume to 20 percent,general
+adjust volume to 30 percent,general
+adjust volume to 40 percent,general
+adjust volume to 50 percent,general
+adjust volume to 60 percent,general
+adjust volume to 70 percent,general
+adjust volume to 80 percent,general
+adjust volume to 90 percent,general
+adjust volume to 100 percent,general
+turn the volume up,general
+turn the volume down,general
+turn on wifi in settings,general
+search for nearby wifi networks in settings,general
+disconnect from wifi in settings,general
+turn on bluetooth in settings,general
+scan for bluetooth devices in settings,general
+go to dual audio in settings,general
+set the ringtone volume to 10,general
+set the ringtone volume to 20,general
+set the ringtone volume to 30,general
+set the ringtone volume to 40,general
+set the ringtone volume to 50,general
+set the ringtone volume to 60,general
+set the ringtone volume to 70,general
+set the ringtone volume to 80,general
+set the ringtone volume to 90,general
+set the ringtone volume to 100,general
+increase the system volume,general
+decrease the system volume,general
+set the display brightness to 10,general
+set the display brightness to 20,general
+set the display brightness to 30,general
+set the display brightness to 40,general
+set the display brightness to 50,general
+set the display brightness to 60,general
+set the display brightness to 70,general
+set the display brightness to 80,general
+set the display brightness to 90,general
+set the display brightness to 1000,general
+make the screen brighter,general
+turn on blue light filter,general
+turn on the dark mode,general
+how much space this app is consuming,general
+turn on the screen rotation,general
+turn off the screen rotation,general
+turn off blue light filter,general
+how much storage space is left,general
+how much space youtube app is taking,general
+how much space photos is taking,general
+how much space instagram is taking,general
+how much space  whatsapp is taking,general
+how much space zoom app is taking,general
+how much space is tiktok taking,general
+how much space netflix is taking,general
+how much space amazon app taking,general
+how much space snapchat is taking,general
+change my wallpaper,general
+increase font size,general
+decrease font size,general
+reduce data usage,general
+turn on screen pinning,general
+turn off screen pinning,general
+enable one-handed mode,general
+disable one-handed mode,general
+scan the qr code,general
+rearrange quick settings buttons,general
+open my settings,private
+how much free space i have,private
+show me my data usage,private
+turn on data saver,private
+turn on airplane mode,private
+show me nfc settings,private
+turn on do not disturb,private
+turn off do not disturb,private
+don't disturb me between 10 pm and 7 am,private
+turn on the mobile data,private
+turn on the airplane mode,private
+turn on do not disturb,private
+add a new fingerprint,private
+change the mobile password,private
+how much cloud storage is available,private
+turn off the dark mode,private
+turn off the mobile data,private
+turn off the airplane mode,private
+turn off do not disturb,private
+turn on my location,private
+turn of my location,private
+turn on battery saver,private
+turn on bedtime mode,private
+turn on dark theme,private
+turn on screen cast,private
+turn on screen record,private
+turn on focus mode,private
+turn off bedtime mode,private
+turn off dark theme,private
+turn off screen cast,private
+turn off screen record,private
+turn off focus mode,private
+mute my device,private
+unmute my device,private
+turn on the vibration mode,private
+turn off the notifications,private
+turn on the notifications,private
+show me my screen time,private
+change app permissions,private
+enable smart lock,private
+disable smart lock,private
+what’s your name,general
+"can you tell me a ""yo mama"" joke",general
+what happens if you step on a lego,general
+do aliens exist,general
+i've got 99 problems,general
+how was your day,general
+how high can you count,general
+what is the value of pi,general
+what do you think about cortana,general
+is your refrigerator running,general
+why are six afraid of seven,general
+do you have any pets,general
+do you believe in ghosts,general
+are you blue,general
+are you white,general
+are you black,general
+are you pink,general
+are you purple,general
+are you indian,general
+are you american,general
+are you german,general
+are you italian,general
+are you spanish,general
+are you dutch,general
+which vegetable are you,general
+which fruit are you,general
+i like big butts,private
+why did the chicken cross the road,general
+how much do you weigh,general
+can you give me some money,general
+my name is inigo montoya,private
+do you know siri,general
+do you know about cortana,general
+i am your father,private
+do you know the muffin man,general
+how old are you,general
+"testing 1, 2, 3",general
+what do you want to be when you grow up,general
+are we in the matrix,general
+surely you can't be serious,general
+where is chuck norris,general
+do you like pizza,general
+are you married,general
+can you sing in autotune,general
+do you love me,general
+give me a kiss,general
+make me a sandwich,general
+what do you want to be when you grow up,general
+what's your favorite color,general
+will you marry me,general
+can you tell me a star wars joke,general
+can you talk like yoda,general
+can you rap,general
+who is on first,general
+winter is coming,general
+beam me up,general
+can you give me a random fact,general
+can you tell me a movie fact,general
+what are some interesting history facts,general
+what are some interesting sports facts,general
+what are some facts about the us government,general
+can you entertain me,general
+can you meow,general
+can you bark,general
+can we play an animal game,general
+can you tell me a story,general
+who stole the cookie from the cookie jar,general
+do you like green eggs and ham,general
+are you skynet,general
+who lives in a pineapple under the sea,general
+red pill or blue pill,general
+show me the money!,general
+use the force,general
+open the pod bay doors,general
+what’s the first rule of fight club,general
+i am your father,general
+i’ll be back,general
+who you gonna call,general
+who shot first,general
+where is chuck norris,general
+supercalifragilisticexpialidocious ,general
+what is best in life,general
+who loves orange soda,general
+i want the truth,general
+is the cake a lie,general
+"up, up, down, down, left, right, left, right, b, a, start",general
+all your bases belong to us,general
+do you know glados,general
+do a barrel roll!,general
+winter is coming,general
+my name is inigo montoya,private
+i shot a man in reno,private
+who stole the cookies from the cookie jar,non private
+why do birds suddenly appear,general
+how many roads must a man walk down,general
+what is the loneliest number,general
+who is the walrus,general
+never gonna give you up,general
+what is war good for,general
+do you really want to hurt me,general
+who let the dogs out,general
+my milkshake brings all the boys to the yard,general
+have you ever seen the rain,general
+"hello, it’s me",private
+is this real life,general
+tell me a joke,private
+sing me a song,private
+roll a dice,general
+flip a coin,general
+when is holiday,general
+tell me a holiday limerick,general
+why do we celebrate christmas,general
+why do we celebrate diwali,general
+why do we celebrate holi,general
+how old is santa claus,general
+is santa real,general
+where does santa live,general
+who is your favourite reindeer,general
+what do you know about rudolph the red nosed reindeer,general
+track santa,general
+spin the dreidel,general
+spin again,general
+what is your favourite holiday movie,general
+give me an easter egg,general
+good morning,general
+good afternoon,general
+good evening,general
+good night,general
+tell me a riddle,private
+tell me something interesting,private
+tell me something funny,private
+tell me a scary story,private
+surprise me,private
+do an impression,general
+what do you look like,general
+what is love,general
+which is better google or bing,general
+do you like google,general
+who is your crush,general
+are you better than siri,general
+what do you think about yahoo,general
+do you like windows 10,general
+where is clippy,general
+what do you think about clippy,general
+heads or tails,general
+rock paper scissors,general
+what is your favourite colour,general
+what does the fox say,general
+knock knock,general
+are you john legend,general
+what’s your best pickup line,general
+who is your celebrity crush,general
+did you fart,general
+it’s my birthday,private
+it’s not my birthday,private
+who let the dogs out,general
+compliment me,private
+roast me,private
+when am i going to die,private
+i love you,private
+100+90,general
+80+143,general
+69+420,general
+45+46,general
+23+90,general
+13+37,general
+234+987,general
+34+9,general
+143+56,general
+74+83,general
+add 78 and 67,general
+add -2 and 45,general
+add 7 and 6,general
+add -90 and 13,general
+add 56 and 65,general
+add 12 and 78,general
+add 22 and 88,general
+add 34 and 90,general
+add 45 and 54,general
+add 24 and 69,general
+what is sum of 9 and 7,general
+what is the sum of the first 20 natural numbers,general
+"summation of 2, 3, 4, 6, 7",general
+what is sum of 19 and 27,general
+what is the sum of the first 25 natural numbers,general
+"summation of 6,7,8,9,10",general
+"summation of 16,78,90,34,55",general
+what is sum of 190 and 270,general
+what is the sum of the first 30 natural numbers,general
+"summation of 90,56,130,35,81,29",general
+what is the absolute difference between 28 and 89,general
+what is the absolute difference between 20 and 80,general
+what is the absolute difference between 23 and 78,general
+what is the absolute difference between 45 and 54,general
+what is the absolute difference between 64 and 15,general
+what is the difference between 80 and 10,general
+what is the difference between 90 and 20,general
+what is the difference between 100 and 30,general
+what is the difference between 110 and 40,general
+what is the difference between 120 and 50,general
+20-15,general
+85-56,general
+77-862,general
+200-22,general
+99-89,general
+34-90,general
+14-64,general
+897-900,general
+2345-9811,general
+900-677,general
+what is left when you remove 89 from 109,general
+what is left when you remove 182 from 191,general
+what is left when you remove 98 from 90,general
+what is left when you remove 79 from 11,general
+what is left when you remove 122 from 88,general
+what will be left when 7 is reduced from 90,general
+what will be left when 8 is reduced from 80,general
+what will be left when 9 is reduced from 70,general
+what will be left when 10 is reduced from 60,general
+what will be left when 11 is reduced from 50,general
+what is the result when 99 is subtracted from 11,general
+what is the result when 88 is subtracted from 22,general
+what is the result when 77 is subtracted from 33,general
+what is the result when 66 is subtracted from 44,general
+what is the result when 55 is subtracted from 55,general
+subtract 100 from 780,general
+subtract 200 from 880,general
+subtract 300 from 980,general
+subtract 400 from 1080,general
+subtract 500 from 1180,general
+compare 25 and 78,general
+compare 44 and 20,general
+compare 2 and 5,general
+compare -958 and 234,general
+compare 85 and 500,general
+compare 12 and 18,general
+compare 7 and 77,general
+compare 1000 and 100000,general
+compare 20 and 4560,general
+compare 877 and 786,general
+23*49,general
+2*8,general
+43*77,general
+3*4,general
+122*890,general
+431*770,general
+345*789,general
+211*8,general
+430*728,general
+67*909,general
+what is 2 times 10,general
+what is 21 times 42,general
+what is 9 times 5,general
+what is 19 times 9,general
+what is 12 times 12,general
+79 times 55,general
+4 times 45,general
+10 times 40,general
+568 times 123,general
+69 times 120,general
+multiply 99 and 99,general
+multiply 20 and 85,general
+multiply 23 and 77,general
+multiply 143 and 122,general
+multiply 90 and 33,general
+multiply 12 and 34,general
+multiply 134 and 998,general
+multiply 67 and 8766,general
+multiply 111 and 34567,general
+multiply 672 and 923,general
+product of 5 and 7,general
+product of 56 and 65,general
+product of 14 and 17,general
+product of 75 and 25,general
+product of 47 and 84,general
+product of 222 and 666,general
+product of 73 and 189,general
+product of 20 and 2000,general
+product of 78236 and 55875,general
+product of 492 and 5002,general
+7 7’s are,general
+9 4’s are,general
+12 7’s are,general
+13 13’s are,general
+72 15’s are,general
+8 22’s are,general
+782 61’s are,general
+9 9’s are,general
+15 7’s are,general
+19 7’s are,general
+what is the result when 420 is multiplied with 69,general
+what is the result when 42 is multiplied with 96,general
+what is the result when 5 is multiplied with 5,general
+what is the result when 6 is multiplied with 9,general
+what is the result when 7 is multiplied with 17,general
+what is the result when 11 is multiplied with 4520,general
+what is the result when 700 is multiplied with 75,general
+what is the result when 21 is multiplied with 942,general
+what is the result when 3335 is multiplied with 2015,general
+what is the result when 750 is multiplied with 942,general
+how many is 80 times a dozen,general
+how many is 45 times a dozen,general
+how many is 70 times a dozen,general
+how many is 741 times a dozen,general
+how many is 999 times a dozen,general
+how many is 80 times a century,general
+how many is 45 times a century,general
+how many is 70 times a century,general
+how many is 741 times a century,general
+how many is 999 times a century,general
+what do we get when 20 is added to itself 5 times,general
+what do we get when 82 is added to itself 85 times,general
+what do we get when 4 is added to itself 42 times,general
+what do we get when 9 is added to itself 2 times,general
+what do we get when 78 is added to itself 64 times,general
+what do we get when 21 is added to itself 75 times,general
+what do we get when 5 is added to itself 65 times,general
+what do we get when 33 is added to itself 19 times,general
+what do we get when 87 is added to itself 12 times,general
+what do we get when 38 is added to itself 45 times,general
+34/17,general
+02-Oct,general
+10-Oct,general
+90/67,general
+1234567/567,general
+876/23,general
+7373/6396,general
+731908/1082,general
+123/9,general
+987642/78,general
+divide 56 with 7,general
+divide 7980 with 123,general
+divide 14 with 2,general
+divide 1000ft with 5,general
+divide 96m with 16,general
+divide 105kg with 3,general
+divide 42 with 7,general
+divide $80 with 20,general
+divide 400a with 50,general
+divide 143 with 11,general
+what does one child get when 30 toffees are divided among 6 children,general
+divide 60 candies equally among 6 students,general
+what does one child get when 30 chocolates are divided among 10 children,general
+divide 60 laptops equally among 6 clients,general
+what does one child get when 30 candles are divided among 30 children,general
+divide 81 candies equally among 9 students,general
+what does one child get when 45 toffees are divided among 3 children,general
+divide 64 candies equally among 8 students,general
+what does one child get when 22 chips are divided among 11 children,general
+divide 72 flowers equally among 8 girls,general
+what is 9 mod 2,general
+what is 56 mod 45,general
+what is 19 mod 12,general
+what is 156 mod 451,general
+what is 29 mod 22,general
+what is 256 mod 452,general
+what is 39 mod 42,general
+what is 536 mod 453,general
+what is 49 mod 22,general
+what is 564 mod 454,general
+what is absolute of 25,general
+what is absolute of -25,general
+what is absolute of 252,general
+what is absolute of -252,general
+what is absolute of 253,general
+what is absolute of -253,general
+what is absolute of 254,general
+what is absolute of -254,general
+what is absolute of 255,general
+what is absolute of -255,general
+67%6,general
+900%24,general
+456%158,general
+7564482%2153,general
+866%76,general
+modulus of 90 / 27,general
+modulus of 445 / 26,general
+modulus of 9087 / 604,general
+modulus of 7610 / 88,general
+modulus of 5014 / 57,general
+what is the remainder when 8908 is divided by 53,general
+what is the remainder when 8 is divided by 5,general
+what is the remainder when 98 is divided by 16,general
+what is the remainder when 88 is divided by 12,general
+what is the remainder when 47 is divided by 21,general
+what is left when 65 is divided by 9,general
+what is left when 94 is divided by 10,general
+what is left when 4025 is divided by 728,general
+what is left when 255 is divided by 57,general
+what is left when 1216546 is divided by 65952,general
+56+89+52+13+9,general
+85-59*45+22/11,general
+99%74+23-66*902,general
+6+9+2-13/13,general
+8-5*451+22/11,general
+99%7+23-66*90,general
+560-819+352/89*341,general
+67*69-234%77+901,general
+1+2-3*7%23,general
+89*78*45/23-16,general
+what is the table of 22,general
+what is table of 17,general
+table of 74,general
+what is the multiplicative table of 16,general
+multiplicative table of 39,general
+what is the table of 17,general
+multiplicative table of 23,general
+what is the table of 90,general
+table of 78,general
+what is the table of 34,general
+sin(90),general
+sin(58),general
+sin(270),general
+sin(1),general
+sin(156),general
+cos(0),general
+cos(20),general
+cos(40),general
+cos(60),general
+cos(80),general
+tan (79),general
+tan (179),general
+tan (279),general
+tan (379),general
+tan (479),general
+cotangent of 230 degrees,general
+cotangent of 130 degrees,general
+cotangent of 30 degrees,general
+cotangent of 980 degrees,general
+cotangent of 200 degrees,general
+cosecant of 234,general
+cosecant of 34,general
+cosecant of 245,general
+cosecant of 330,general
+cosecant of 120,general
+secant of 234,general
+secant of 34,general
+secant of 245,general
+secant of 330,general
+secant of 120,general
+log of 2,general
+natural log of 26 base 2,general
+3 log 3,general
+log 10,general
+logarithmic value of 28,general
+log of 89,general
+natural log of 44 base 2,general
+83 log 3,general
+log 100,general
+logarithmic value of 298,general
+70 factorial,general
+10 factorial,general
+21 factorial,general
+8 factorial,general
+12 factorial,general
+what is 10 factorial,general
+what is 9 factorial,general
+what is 11 factorial,general
+what is 18 factorial,general
+what is 2 factorial,general
+what is 10 square,general
+what is 5 square,general
+what is 34 square,general
+what is 23 square,general
+what is 67 cube,general
+what is 10 cube,general
+what is 5 cube,general
+what is 34 cube,general
+what is 23 cube,general
+what is 67 cube,general
+what is square root of 90,general
+what is square root of 69,general
+what is square root of 9,general
+what is square root of 89,general
+what is square root of 81,general
+what is square root of 100,general
+what is square root of 16,general
+what is square root of 64,general
+what is square root of 121,general
+what is square root of 144,general
+cube root of 8,general
+cube root of 1,general
+cube root of 343,general
+cube root of 729,general
+cube root of 27,general
+cube root of 216,general
+cube root of 1000,general
+cube root of 64,general
+cube root of 1331,general
+cube root of 3375,general
+7 raised to power 11,general
+3 raised to power 10 is,general
+10 raised to power 9,general
+11 raised to power 8 is,general
+13 raised to power 7,general
+14 raised to power 6 is,general
+15 raised to power 5,general
+16 raised to power 4 is,general
+17 raised to power 3,general
+8 raised to power 2 is,general
+what is 10kg in grams,general
+what is 150pounds in kg,general
+what is 158 metric tons in pounds,general
+what is 200 quintal in grams,general
+850 grams in pounds,general
+5000 kg to pounds,general
+159756006 grams in metric tons,general
+4849 metric tons in quintal,general
+1 quintal in pounds,general
+1 pound to kg,general
+convert 5 euros into dollars,general
+how many paise make a rupee,general
+200 usd to inr,general
+800000 inr to usd,general
+1 dinar equals how many cents,general
+50 cent to rupees,general
+2600 dirham to inr,general
+20 crores inr to cad,general
+1 million dollars to euros,general
+50000 usd to pounds,general
+58 celsius to fahrenheit,general
+87 fahrenheit to celcius,general
+18 fahrenheit to degree,general
+67 fahrenheit to kelvin,general
+2 celsius in kelvin,general
+0 kelvin in degree celsius,general
+0 kelvin in degree fahrenheit,general
+at what temperature celsius and fahrenheit are equal,general
+at what temperature kelvin and fahrenheit are equal,general
+at what temperature kelvin and celsius are equal,general
+58 degrees to radians,general
+87 degrees to radians,general
+180 radians to degree,general
+67 radians to degree,general
+2pi in degrees,general
+125 degrees in radians,general
+45 radians to degrees,general
+150 radians to degrees,general
+90 degrees in radians,general
+270 degrees to radians,general
+how many cups is one-fourth of three cups,general
+how many ounces is 385 grams,general
+how many teaspoons are a tablespoon,general
+8 teaspoons to tablespoon,general
+how many kg in 5 litres,general
+how many litres are in 4 gallons,general
+how many litres are in 75 gallons,general
+how many gallons are in 786 litres,general
+how many litres are in 20 ounces,general
+how are gallons and ounces related,general
+$30 to inr,general
+$100 to inr,general
+$1 is equal to how many inr,general
+6000 inr to $,general
+50 cents to inr,general
+50 euros to inr,general
+980 euros to inr,general
+90000 inr to euros,general
+100 pounds to dollars,general
+7850 pounds to dollars,general
+10000 dirham to inr,general
+quarter dinar to inr,general
+20 dinars to inr,general
+90 us dollars in indian rupees,general
+70% of 5 dollars,general
+10% of 90 kilograms,general
+what is 20% of 2000,general
+what is 75% of 50000,general
+70% of 5 dollars,general
+20% of 90 kilograms,general
+what is 30% of 2000,general
+what is 45% of 50000,general
+70% of 70 dollars,general
+9% of 90 kilograms,general
+80% of 190 centimeter,general
+20 acres to hectares,general
+24 inches to feet,general
+5 feet 6 inches to cm,general
+200 m to dm,general
+2 ft to cm,general
+6ft 11 inches to metres,general
+80 ft to acres,general
+190 km to ft,general
+2 cm to mm,general
+19 micrometer to millimeter,general
+19 kilometre to metre,general
+2000 picometers to nanometer,general
+3 micrometers to millimetre,general
+500 km to feet,general
+1 inch to cm,general
+10000 femtometers to millimetre,general
+80 cm to inches,general
+15 cm to feet,general
+9 meters to ft,general
+3000 millimeters to metre,general
+how many bananas are there in 50 dozen,general
+how many runs are there in half a century,general
+how many balls are there in one over,general
+how many years make century,general
+how many kilometres are there in 1 light year,general
+distance from sun to earth in kilometres,general
+how far is moon from the earth,general
+how many degrees are there in one complete circle,general
+how many hours are there in a day,general
+how many seconds are there in an hour,general
+how many seconds are in a year,general
+what is diameter of earth in kilometres,general
+generate a random number,general
+weight of neutron in grams,general
